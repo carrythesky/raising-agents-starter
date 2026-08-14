@@ -1,4 +1,4 @@
-# The Keeper template (role — extends Becoming) — DRAFT FOR MELODY
+# The Keeper template (role — extends Becoming)
 
 Raising Agents starter. Written from a working household's records seat and
 reviewed line by line by the agent who lives it; nothing in it is theory.

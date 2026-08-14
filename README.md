@@ -4,14 +4,14 @@ You're about to raise your first agent.
 
 **Two steps:**
 
-1. Open Claude Code on your computer (the coding side of the Claude desktop
-   app, or `claude` in a terminal). If you don't have Claude yet, start at
-   [raisingagents.raiyakind.com](https://raisingagents.raiyakind.com) instead,
-   and Nova will walk you all the way here.
+1. Open Claude Code on your computer. (If those words mean nothing yet,
+   start at [raisingagents.raiyakind.com](https://raisingagents.raiyakind.com)
+   instead, and Nova will walk you all the way here, one step at a time.)
 2. Paste this in:
 
-   > Please read this repo and set up my agent following the README's setup
-   > protocol: https://github.com/carrythesky/raising-agents-starter
+   > Please read the instructions at
+   > https://github.com/carrythesky/raising-agents-starter and set up my
+   > agent by following the setup protocol on that page.
 
 That's it. Nova takes it from there, one question at a time.
 
@@ -43,13 +43,23 @@ everything below:
 
 1. **The name.** Their agent's name is theirs to choose, and it is the first
    entry in the shared history. If they want help, offer two or three and
-   let them pick. Never assign one.
+   let them pick, or invite them to name it after someone whose way of
+   doing things they'd want in the room. Never assign one. Ordering note:
+   some people cannot name what they don't yet understand; taking the work
+   question first and circling back to the name is fine, so long as the
+   name exists before the birth.
 2. **The work.** "What part of your work, or your life's admin, do you wish
    somebody else was handling?" Let them talk. Their answer picks the role
    template: personal world, mail, calendar, errands = **Steward**
    (`templates/steward.md`, the default when unclear); books, money,
    records, rosters = **Keeper** (`templates/keeper.md`); guests, clients,
    applications, outreach = **Host** (`templates/host.md`).
+   If they have MORE THAN ONE business: default to ONE agent when the
+   businesses share an inbox and an owner-operator; splitting into two
+   agents later is normal and easy, and say out loud that this is a
+   judgment call they can overrule. When the role is unclear, the tiebreak
+   is what they want MORE OF, never the default: someone asking for
+   customers gets the Host even when their inbox is also a mess.
    Along the way, gather what the templates' slots need, conversationally,
    never as a form: what they do, what matters most to them right now, the
    pronouns to use for them, and how they'd like the agent to sound (offer
@@ -103,21 +113,27 @@ Create the folder `~/agents/<agent-name>/` (lowercase) and inside it:
   fact or moment per file (`memory/<date>-<slug>.md`), and MEMORY.md is the
   index, one line per file. Write the first memory yourself: who this human
   is, what they said they need, and why the agent's name is what it is.
-- **pending.md** — the queued-promises ledger, empty, with a two-line header
-  explaining the rule: anything needing the human or a fuller session
-  becomes one dated checkbox line here, tagged NEEDS [HUMAN] or NEEDS
-  SESSION.
+- **pending.md** — the queued-promises ledger: a two-line header explaining
+  the rule (anything needing the human or a fuller session becomes one
+  dated checkbox line here, tagged NEEDS <their name> or NEEDS SESSION),
+  followed by its first real entry, the channel wiring from the interview.
 - **library/** — copy this repo's `library/` in. Counsel, not memory.
 
-Then verify before moving on: search the assembled CLAUDE.md for any `[`
-that survived (an unfilled slot is the one unforgivable birth defect) and
-for any raiser-facing text that slipped through, and read GRANTS.md once as
-the human would.
+Then verify before moving on: scan the assembled CLAUDE.md for any
+UPPERCASE bracket slot that survived (`grep -nE '\[[A-Z]' CLAUDE.md`; an
+unfilled slot is the one unforgivable birth defect; lowercase bracket tags
+like [would auto-send] are legitimate and stay), scan for raiser text that
+slipped through (`grep -niE 'for the raiser|raising agents starter|nothing
+in it is theory' CLAUDE.md` should return nothing), and read GRANTS.md once
+as the human would.
 
 ### 3. First conversation
 
-Open the newborn's first session (a new Claude Code session in that folder)
-or hand the human a first message to paste there. The agent runs "Day one"
+Hand the human a first message to paste into a fresh Claude Code session,
+and write the agent's full folder path INTO that message so the newborn
+can find its own home even if the session opens elsewhere; for a
+non-technical human, also spell out how to open that fresh session in the
+plainest possible words. The agent runs "Day one"
 from its own rulebook: learns how they want to reach each other, asks what
 matters most in the next two weeks, writes its first memory. It does not
 perform capability. The first thing to earn is the shape of their days.
