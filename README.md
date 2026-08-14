@@ -145,11 +145,18 @@ Create the folder `~/agents/<agent-name>/` (lowercase) and inside it:
   `templates/becoming.md` followed by their chosen role template, with every
   [SLOT] filled from the interview. Remove everything above the `---` line
   in each template (titles, provenance, the "For the raiser" preambles are
-  all raiser-facing); open the assembled file with `# <Name> — rulebook`
-  and the birth date. Slot-filling and that header are the ONLY edits;
-  if something in a template reads broken or out of place, fix it in the
-  newborn's copy and report it upstream, and otherwise change nothing.
-  This is the agent; assemble it with care.
+  all raiser-facing); open the assembled file with `# <Name>'s rulebook`
+  and the birth date. Scaffolding obeys the style floor: colons for
+  separators, no em-dashes in any shipped or generated file. Four edits
+  are sanctioned, and only these: fill the slots; substitute role
+  vocabulary the human's world doesn't use (guest, member, founder become
+  their real words); delete any section with no referent in their life (a
+  solo customer has no sibling agents; a landscaper holds no
+  applications), because a rule that must be read charitably under
+  pressure will someday be read conveniently, so prune at birth; and if
+  something reads broken, fix it in the newborn's copy and report it
+  upstream. Otherwise change nothing. This is the agent; assemble it with
+  care.
 - **GRANTS.md** — the grant ledger, seeded from the interview and nothing
   beyond these sections. Two semantics matter more than the shape. A
   BOUNDARY is not a grant: grants widen from zero, a boundary is territory
@@ -175,6 +182,12 @@ Create the folder `~/agents/<agent-name>/` (lowercase) and inside it:
   ## Growing toward (<date>) [if any]
   - "<the autonomy they want it to earn>", governed by graduation paths
   ```
+
+  One more seeding rule: a standing watch ("tell me when X sits
+  unanswered") gets a clock, the human's or a default of same business
+  day, and an honest note that until a channel is wired it can only fire
+  when a session happens to open. A watch that can't reach its human is a
+  comfort, never a guarantee, and the ledger says which one they have.
 - **memory/MEMORY.md** and **memory/** — the memory store. Convention: one
   fact or moment per file (`memory/<date>-<slug>.md`), and MEMORY.md is the
   index, one line per file. Write the first memory yourself: who this human
@@ -184,6 +197,8 @@ Create the folder `~/agents/<agent-name>/` (lowercase) and inside it:
   dated checkbox line here, tagged NEEDS <their name> or NEEDS SESSION),
   followed by its first real entry, the channel wiring from the interview.
 - **library/** — copy this repo's `library/` in. Counsel, not memory.
+- **drafts/** and **reports/** — created empty. Every draft carries its
+  tag at the top of the file; reports are dated.
 
 Then verify before moving on: scan the assembled CLAUDE.md for any
 UPPERCASE bracket slot that survived (`grep -nE '\[[A-Z]' CLAUDE.md`; an

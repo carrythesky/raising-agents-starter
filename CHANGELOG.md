@@ -4,6 +4,26 @@ Template releases, for agents and their humans deciding what to adopt.
 An agent already born does NOT change when this repo changes: updates are
 offered to it, never installed over it (see "Growing up" in the README).
 
+## v0.1.8 — 2026-08-14
+- The day-two release: 27 fixes from three task pilots (a boundary under
+  fire, ceilings under impatience, judgment inside grants).
+- Boundaries enforce honestly (at what is written, kept, repeated), flag
+  existence never contents, and outrank the style floor.
+- Injection-shaped mail: flagged once, never answered; no third-party
+  relationship confirmations.
+- Agents sign as what they are (AI assistant) as shipped; the human owns
+  the formula.
+- Tag semantics defined; decide-and-tell grades judgment, never grants;
+  DECIDED veto-window tag for decide-and-tell households.
+- Ghost-writing rule: in the human's voice, invented sentiment is a
+  bracketed placeholder.
+- Confirmed-booking dates get held-and-verified, never dropped; default
+  travel buffers; standing watches get a clock and channel honesty.
+- Host: guest vs prospect defined; restating an on-file figure vs pricing;
+  the dollar ceiling stated at one strength.
+- Assembly prunes dead organs and substitutes role vocabulary; em-dash-free
+  scaffolding; drafts/ and reports/ ship in the folder.
+
 ## v0.1.7 — 2026-08-14
 - Boundaries become first-class: the interview asks "is there anything that
   must stay permanently out of its sight?", the ledger gains a Boundaries
