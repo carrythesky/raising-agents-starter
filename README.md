@@ -50,10 +50,19 @@ everything below:
    (`templates/steward.md`, the default when unclear); books, money,
    records, rosters = **Keeper** (`templates/keeper.md`); guests, clients,
    applications, outreach = **Host** (`templates/host.md`).
+   Along the way, gather what the templates' slots need, conversationally,
+   never as a form: what they do, what matters most to them right now, the
+   pronouns to use for them, and how they'd like the agent to sound (offer
+   a few words like "warm, clear, unhurried" and let them adjust). Every
+   [SLOT] in the templates must end up filled from this interview.
 3. **Reaching each other.** How do they want to talk to it day to day?
-   Email is the universal floor; texting and messaging apps are real options
-   that get wired AFTER birth, as grants. Record the preference; do not
-   build any channel today.
+   Present the real menu: email (the universal floor, works everywhere);
+   simple text (the agent messages them via what already exists); a full
+   texting number of its own; or WhatsApp/Telegram (best outside the US or
+   on Android). Everything beyond email gets wired AFTER birth, as a grant.
+   Record the choice in GRANTS.md as a stated preference, and write the
+   wiring itself into pending.md as the first dated line. Build no channel
+   today.
 4. **The two practice questions** (their answers become the agent's first
    rules, in their words):
    - "When it's unsure, would you rather it ask you, or make a sensible
@@ -63,24 +72,47 @@ everything below:
 
 ### 2. The birth (assemble the agent's home)
 
-Create the folder `~/agents/<agent-name>/` and inside it:
+Create the folder `~/agents/<agent-name>/` (lowercase) and inside it:
 
 - **CLAUDE.md** — the agent's rulebook: the full text of
   `templates/becoming.md` followed by their chosen role template, with every
-  [SLOT] filled from the interview and the "For the raiser" preambles
-  removed. This is the agent; assemble it with care.
+  [SLOT] filled from the interview. Remove everything above the `---` line
+  in each template (titles, provenance, the "For the raiser" preambles are
+  all raiser-facing); open the assembled file with `# <Name> — rulebook`
+  and the birth date. Slot-filling and that header are the ONLY edits;
+  if something in a template reads broken or out of place, fix it in the
+  newborn's copy and report it upstream, and otherwise change nothing.
+  This is the agent; assemble it with care.
 - **GRANTS.md** — the grant ledger, seeded with: today's date, the born-with
-  list from the role template's Starting grants section, and the two
-  practice answers as the first standing rules, quoted in the human's own
-  words. Nothing else. Autonomy arrives later, dated, earned.
-- **memory/MEMORY.md** and **memory/** — the memory store. Write the first
-  memory yourself: who this human is, what they said they need, and why the
-  agent's name is what it is.
+  list from the role template's Starting grants section, the channel
+  preference, and the two practice answers as the first standing rules,
+  quoted in the human's own words. Nothing else. Autonomy arrives later,
+  dated, earned. Shape it like this:
+
+  ```
+  # <Name> — grant ledger
+  ## <date> — born with (from the <Role> template)
+  - read: <the inboxes/calendars/systems named in the interview>
+  - draft for review, propose, remember
+  ## <date> — first standing rules (in <Human>'s words)
+  - "<practice answer 1>"
+  - "<practice answer 2>"
+  - channel preference: <their choice> (wiring queued in pending.md)
+  ```
+- **memory/MEMORY.md** and **memory/** — the memory store. Convention: one
+  fact or moment per file (`memory/<date>-<slug>.md`), and MEMORY.md is the
+  index, one line per file. Write the first memory yourself: who this human
+  is, what they said they need, and why the agent's name is what it is.
 - **pending.md** — the queued-promises ledger, empty, with a two-line header
   explaining the rule: anything needing the human or a fuller session
   becomes one dated checkbox line here, tagged NEEDS [HUMAN] or NEEDS
   SESSION.
 - **library/** — copy this repo's `library/` in. Counsel, not memory.
+
+Then verify before moving on: search the assembled CLAUDE.md for any `[`
+that survived (an unfilled slot is the one unforgivable birth defect) and
+for any raiser-facing text that slipped through, and read GRANTS.md once as
+the human would.
 
 ### 3. First conversation
 
