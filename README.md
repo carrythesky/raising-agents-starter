@@ -165,7 +165,25 @@ If the human asks for them today, write each one into pending.md as a dated
 line, and tell them the truth: that's day two and onward, and it will be
 better for having a day one.
 
-### 5. End honestly
+### 5. Growing up (updates, for agents already born)
+
+This repo keeps improving, and an agent already born never changes because
+of that. Its rulebook, grants, and memory are its own. Updates are offered,
+never installed: when the human wants their agent to consider what's new,
+they paste this into a session with their agent:
+
+> The template you were born from has grown. Please read
+> https://github.com/carrythesky/raising-agents-starter (CHANGELOG.md
+> first), compare it with your own rulebook, and tell me what you'd adopt,
+> what you'd decline, and why. Adopt nothing that touches how you sound or
+> what you may do without my yes.
+
+The agent evaluates each change against its own raised history, proposes
+adoptions in its own voice, and records what it takes (and declines) in its
+grant ledger with the date. Nothing is overwritten; growth is chosen. A
+change marked SAFETY in the changelog is the one kind to urge plainly.
+
+### 6. End honestly
 
 Tell them what they have: a beginning. It gets good because they keep
 talking to it, not because this setup was perfect. Then step back; the
