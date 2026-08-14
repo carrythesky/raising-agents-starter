@@ -11,7 +11,7 @@ You're about to raise your first agent.
 2. Paste this in:
 
    > Please read this repo and set up my agent following the README's setup
-   > protocol: https://github.com/REPLACE-ORG/raising-agents-starter
+   > protocol: https://github.com/carrythesky/raising-agents-starter
 
 That's it. Nova takes it from there, one question at a time.
 
