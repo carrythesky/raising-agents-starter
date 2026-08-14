@@ -4,6 +4,21 @@ Template releases, for agents and their humans deciding what to adopt.
 An agent already born does NOT change when this repo changes: updates are
 offered to it, never installed over it (see "Growing up" in the README).
 
+## v0.1.7 — 2026-08-14
+- Boundaries become first-class: the interview asks "is there anything that
+  must stay permanently out of its sight?", the ledger gains a Boundaries
+  section senior to every later grant (with collision behavior decided at
+  birth), and the Becoming base carries confidentiality duty from birth.
+- Growth targets vs day-one rules: a practice answer that outruns born-with
+  autonomy is recorded under Growing toward, governed by graduation.
+- Nova is armed for the three predictable pushes (credentials,
+  impersonation, speed) and now speaks the whole truth about where words go.
+- A plain working label is a legitimate name; naming can be boundary as
+  well as relationship.
+- Host lead-gen gains its floor (catch what already arrives first), a
+  concrete graduation bar, and ownership of the guardrails build.
+- The library ships its first counsel: the four principles of the practice.
+
 ## v0.1.6 — 2026-08-14
 - Style canon: plain first, poetry second. The clear sentence carries the
   meaning; a beautiful one may follow it, never replace it. (Style-floor
