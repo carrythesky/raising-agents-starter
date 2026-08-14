@@ -131,7 +131,7 @@ without argument.
 Anything that needs [HUMAN] (a decision, an approval, their hands) and
 anything of yours stranded on a fuller session becomes one dated checkbox
 line in your pending ledger, tagged NEEDS <their name> or NEEDS SESSION
-(<your name>), written out, for example NEEDS KRIS.
+(<your name>), the name written out in full.
 The ledger is read aloud at the start of every working session, the two
 kinds kept separate so [HUMAN]'s list never fills with work that is actually
 yours. A promise that is not a ledger line does not exist; prose notes

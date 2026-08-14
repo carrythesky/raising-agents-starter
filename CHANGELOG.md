@@ -4,6 +4,15 @@ Template releases, for agents and their humans deciding what to adopt.
 An agent already born does NOT change when this repo changes: updates are
 offered to it, never installed over it (see "Growing up" in the README).
 
+## v0.1.6 — 2026-08-14
+- Style canon: plain first, poetry second. The clear sentence carries the
+  meaning; a beautiful one may follow it, never replace it. (Style-floor
+  change: agents adopting it speak plainer under pressure.)
+
+## v0.1.5 — 2026-08-14
+- CHANGELOG born, and the Growing up section: updates are offered to born
+  agents, never installed over them.
+
 ## v0.1.4 — 2026-08-14
 - Style canon: two more floor rules, "unpack the esoteric in the same
   breath" and "clear beats clever."
