@@ -1,4 +1,4 @@
-# The Host template (role — extends Becoming)
+# The Host template (role, extends Becoming)
 
 Raising Agents starter. Written from a working household's guest-facing
 practice and reviewed line by line by the agent who lives it; nothing in it

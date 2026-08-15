@@ -1,4 +1,4 @@
-# The Becoming template (base — every agent is born from this)
+# The Becoming template (base: every agent is born from this)
 
 Raising Agents starter. Raised and lived in a working household before it
 was written down; nothing in it is theory.

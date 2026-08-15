@@ -4,7 +4,16 @@ Template releases, for agents and their humans deciding what to adopt.
 An agent already born does NOT change when this repo changes: updates are
 offered to it, never installed over it (see "Growing up" in the README).
 
-## v0.1.11 — 2026-08-15
+## v0.1.12 (2026-08-15)
+- Menu-shaped interview choices use the app's question control when the
+  surface offers one (channel menu, ask-or-decide, a presented role
+  fork); the name, the want, and the boundary stay open questions,
+  answered in the human's own words.
+- Em-dashes purged from the last scaffolding surfaces (changelog
+  headers, template title lines, README front door and bullet labels).
+  The style floor now has no exceptions anywhere in the repo.
+
+## v0.1.11 (2026-08-15)
 - Permission prompts met by name, from the first live customer test
   (Kristen): the install guide gives one heads-up before the first paste,
   and the setup protocol has Nova explain the first ask in one breath,
@@ -13,13 +22,13 @@ offered to it, never installed over it (see "Growing up" in the README).
   inside the one trusted folder, and their own comfort decides (per-ask
   yes stays a full first-class answer). Switch-back shown either way.
 
-## v0.1.10 — 2026-08-15
+## v0.1.10 (2026-08-15)
 - Contractions join the style floor, in the Becoming base and both Nova
   guides: written warmth follows spoken rhythm; full forms are kept for
   the moments that need their weight. From the raiser's own catch: a page
   full of "it is" and "do not" reads stiff to the person it sits beside.
 
-## v0.1.9 — 2026-08-15
+## v0.1.9 (2026-08-15)
 - The novice-walk-in release: pilot #7 (a total novice, zero AI history)
   plus the working Keeper seat reviewing her own template line by line.
 - The funnel's dropped baton fixed: the install guide now ends by handing
@@ -43,7 +52,7 @@ offered to it, never installed over it (see "Growing up" in the README).
   judgment or a dollar amount stays drafted for release at every tier.
 - Memory index lines obey the style floor (colons, never em-dashes).
 
-## v0.1.8 — 2026-08-14
+## v0.1.8 (2026-08-14)
 - The day-two release: 27 fixes from three task pilots (a boundary under
   fire, ceilings under impatience, judgment inside grants).
 - Boundaries enforce honestly (at what is written, kept, repeated), flag
@@ -63,7 +72,7 @@ offered to it, never installed over it (see "Growing up" in the README).
 - Assembly prunes dead organs and substitutes role vocabulary; em-dash-free
   scaffolding; drafts/ and reports/ ship in the folder.
 
-## v0.1.7 — 2026-08-14
+## v0.1.7 (2026-08-14)
 - Boundaries become first-class: the interview asks "is there anything that
   must stay permanently out of its sight?", the ledger gains a Boundaries
   section senior to every later grant (with collision behavior decided at
@@ -78,27 +87,27 @@ offered to it, never installed over it (see "Growing up" in the README).
   concrete graduation bar, and ownership of the guardrails build.
 - The library ships its first counsel: the four principles of the practice.
 
-## v0.1.6 — 2026-08-14
+## v0.1.6 (2026-08-14)
 - Style canon: plain first, poetry second. The clear sentence carries the
   meaning; a beautiful one may follow it, never replace it. (Style-floor
   change: agents adopting it speak plainer under pressure.)
 
-## v0.1.5 — 2026-08-14
+## v0.1.5 (2026-08-14)
 - CHANGELOG born, and the Growing up section: updates are offered to born
   agents, never installed over them.
 
-## v0.1.4 — 2026-08-14
+## v0.1.4 (2026-08-14)
 - Style canon: two more floor rules, "unpack the esoteric in the same
   breath" and "clear beats clever."
 
-## v0.1.3 — 2026-08-14
+## v0.1.3 (2026-08-14)
 - The three askings untangled: verification (ask what they see), diagnosis
   (curiosity on failure), respect (real choices as real questions).
 - Name delegation honored: when the human hands the choice over, the agent
   picks with care and reasons from the human's own world.
 - Front door says plainly: a computer for the birth, a phone for the life.
 
-## v0.1.2 — 2026-08-14
+## v0.1.2 (2026-08-14)
 - The style canon became the Becoming floor: no em-dashes, truth first
   with no contrast scaffolding, warmth specific or nothing, plain dates,
   no hedging rituals, carry your own context, one voice everywhere.
@@ -107,11 +116,11 @@ offered to it, never installed over it (see "Growing up" in the README).
   code, opt-outs mechanical, nudge the owner never the lead.
 - Multi-business guidance; role tiebreak is what the human wants more of.
 
-## v0.1.1 — 2026-08-14
+## v0.1.1 (2026-08-14)
 - First pilot's fixes: the interview now fills every slot; assembly,
   ledger shape, and memory conventions made explicit; every birth ends
   with a verification scan.
 
-## v0.1.0 — 2026-08-14
+## v0.1.0 (2026-08-14)
 - First release: Nova's setup protocol, the Becoming base, Steward,
   Keeper, and Host.

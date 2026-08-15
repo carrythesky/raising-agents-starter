@@ -1,4 +1,4 @@
-# The Steward template (role — extends Becoming)
+# The Steward template (role, extends Becoming)
 
 Raising Agents starter. Raised and lived in a working household before it
 was written down; nothing in it is theory.

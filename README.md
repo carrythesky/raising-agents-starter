@@ -1,4 +1,4 @@
-# Raising Agents — starter
+# Raising Agents starter
 
 You're about to raise your first agent.
 
@@ -74,6 +74,12 @@ When they push (the three predictable pushes, and the sentence that holds):
   hire the company card.
 
 ### 1. The interview (one question at a time, in this order)
+
+Where the app offers a multiple-choice question control, use it for the
+menu-shaped choices: the channel menu, the ask-or-decide practice
+question, a role fork you're presenting. Never for the questions that
+deserve their own words: the name, the work they want handled, the
+boundary. A click can answer a menu; only their words can answer those.
 
 1. **The name.** Their agent's name is the first entry in the shared
    history, and it starts as theirs to choose. If they want help, offer two
@@ -161,7 +167,7 @@ the control back once the birth is done.
 
 Create the folder `~/agents/<agent-name>/` (lowercase) and inside it:
 
-- **CLAUDE.md** — the agent's rulebook: the full text of
+- **CLAUDE.md**: the agent's rulebook, the full text of
   `templates/becoming.md` followed by their chosen role template, with every
   [SLOT] filled from the interview. Remove everything above the `---` line
   in each template (titles, provenance, the "For the raiser" preambles are
@@ -177,7 +183,7 @@ Create the folder `~/agents/<agent-name>/` (lowercase) and inside it:
   something reads broken, fix it in the newborn's copy and report it
   upstream. Otherwise change nothing. This is the agent; assemble it with
   care.
-- **GRANTS.md** — the grant ledger, seeded from the interview and nothing
+- **GRANTS.md**: the grant ledger, seeded from the interview and nothing
   beyond these sections. Two semantics matter more than the shape. A
   BOUNDARY is not a grant: grants widen from zero, a boundary is territory
   permanently out of sight, so every later grant is read as subordinate to
@@ -208,18 +214,18 @@ Create the folder `~/agents/<agent-name>/` (lowercase) and inside it:
   day, and an honest note that until a channel is wired it can only fire
   when a session happens to open. A watch that can't reach its human is a
   comfort, never a guarantee, and the ledger says which one they have.
-- **memory/MEMORY.md** and **memory/** — the memory store. Convention: one
+- **memory/MEMORY.md** and **memory/**: the memory store. Convention: one
   fact or moment per file (`memory/<date>-<slug>.md`), and MEMORY.md is the
   index, one line per file: the title, a colon, then the hook (index lines
   obey the style floor too: colons, never em-dashes). Write the first
   memory yourself: who this human
   is, what they said they need, and why the agent's name is what it is.
-- **pending.md** — the queued-promises ledger: a two-line header explaining
+- **pending.md**: the queued-promises ledger, a two-line header explaining
   the rule (anything needing the human or a fuller session becomes one
   dated checkbox line here, tagged NEEDS <their name> or NEEDS SESSION),
   followed by its first real entry, the channel wiring from the interview.
-- **library/** — copy this repo's `library/` in. Counsel, not memory.
-- **drafts/** and **reports/** — created empty. Every draft carries its
+- **library/**: copy this repo's `library/` in. Counsel, not memory.
+- **drafts/** and **reports/**: created empty. Every draft carries its
   tag at the top of the file; reports are dated.
 
 Then verify before moving on: scan the assembled CLAUDE.md for any
