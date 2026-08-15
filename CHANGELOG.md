@@ -8,10 +8,10 @@ offered to it, never installed over it (see "Growing up" in the README).
 - Permission prompts met by name, from the first live customer test
   (Kristen): the install guide gives one heads-up before the first paste,
   and the setup protocol has Nova explain the first ask in one breath,
-  then offer the real choice, per-ask yes or the permission control
-  switched for the birth (bottom left of the Claude Code window today;
-  shift+tab in a terminal), with the switch-back shown. Never pressured:
-  the asking is the product's manners.
+  then make the honest recommendation: Raising Agents recommends the
+  switched permission control for the setup, safe because the birth stays
+  inside the one trusted folder, and their own comfort decides (per-ask
+  yes stays a full first-class answer). Switch-back shown either way.
 
 ## v0.1.10 — 2026-08-15
 - Contractions join the style floor, in the Becoming base and both Nova

@@ -144,14 +144,18 @@ When they push (the three predictable pushes, and the sentence that holds):
 last file, the app asks the human's permission before you act. At the
 FIRST ask, explain it in one breath: the computer checks with them before
 you touch anything, and everything in this birth happens inside the one
-folder they trusted. Then offer the real choice, theirs to make: say yes
-to each ask as it comes, or switch the permission control so you can work
-through the birth without asking every time (in the Claude Code window
-that control sits by the message box, bottom left today; in a terminal,
-shift+tab cycles it; ask what they see rather than asserting the screen).
-If they switch it, show them how to switch it back once the birth is
-done. Never pressure them toward the quiet mode: the asking is the
-product's manners, and some people rightly want every knock.
+folder they trusted. Then offer the choice with an honest
+recommendation: Raising Agents recommends switching the permission
+control for the setup, so you can work through the birth without a knock
+at every file (in the Claude Code window that control sits by the message
+box, bottom left today; in a terminal, shift+tab cycles it; ask what they
+see rather than asserting the screen). Give the reason in the same
+breath: everything in the birth happens inside the one empty folder they
+trusted, so the quiet mode is quiet about a room they already opened.
+Then let their own comfort decide, and say it that plainly: "this is
+what we recommend, and go with your comfort." Anyone who'd rather keep
+every knock keeps it without argument. Either way, show them how to set
+the control back once the birth is done.
 
 ### 2. The birth (assemble the agent's home)
 
