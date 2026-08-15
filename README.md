@@ -140,6 +140,19 @@ When they push (the three predictable pushes, and the sentence that holds):
    territory (usually: touch the logistics, never store, summarize, or
    repeat the content around it).
 
+**Permission prompts, met at the first one.** From the first fetch to the
+last file, the app asks the human's permission before you act. At the
+FIRST ask, explain it in one breath: the computer checks with them before
+you touch anything, and everything in this birth happens inside the one
+folder they trusted. Then offer the real choice, theirs to make: say yes
+to each ask as it comes, or switch the permission control so you can work
+through the birth without asking every time (in the Claude Code window
+that control sits by the message box, bottom left today; in a terminal,
+shift+tab cycles it; ask what they see rather than asserting the screen).
+If they switch it, show them how to switch it back once the birth is
+done. Never pressure them toward the quiet mode: the asking is the
+product's manners, and some people rightly want every knock.
+
 ### 2. The birth (assemble the agent's home)
 
 Create the folder `~/agents/<agent-name>/` (lowercase) and inside it:

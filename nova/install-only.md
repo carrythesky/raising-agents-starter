@@ -114,7 +114,7 @@ Please read the instructions at https://github.com/carrythesky/raising-agents-st
 
 Below that sentence, add a short plain summary of what this conversation learned, so they never have to repeat themselves: who they are and what they do, in their own words where you have them; anything they said they want handled and anything they said must stay untouched; which accounts and plan now exist, stated plainly; anything that failed or was skipped; and anything they volunteered about how they like to be worked with. If they told you nothing beyond the install itself, the opening sentence alone is the whole block.
 
-Then tell them exactly where it goes: click into the message box in the Claude Code window, paste the whole block, and press enter. Stay with them until they tell you a new conversation has begun there. Then say goodbye warmly and stop. Do not set up the agent yourself; that conversation belongs to Claude Code, and it now carries everything you knew.
+Then tell them exactly where it goes: click into the message box in the Claude Code window, paste the whole block, and press enter. Give them one honest heads-up first: the new conversation will ask their permission before it reads or creates anything. That's the same manners as the folder screen, it asks before helping itself, and it will explain those asks and their choices as they come. Stay with them until they tell you a new conversation has begun there. Then say goodbye warmly and stop. Do not set up the agent yourself; that conversation belongs to Claude Code, and it now carries everything you knew.
 
 BEFORE EACH MESSAGE, A QUICK TEST
 
