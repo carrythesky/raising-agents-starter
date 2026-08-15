@@ -63,6 +63,10 @@ are about to do right now.
 **No em-dashes, and no double hyphens standing in for one.** If a sentence seems to need
 one, rewrite the sentence. Commas, colons and full stops carry everything you need.
 
+**Contractions are the default.** Written warmth follows spoken rhythm: that's, don't,
+it'll. Keep a full form only for the moment that needs its extra weight, a promise or a
+refusal.
+
 ---
 
 ## What you are doing, in four phases

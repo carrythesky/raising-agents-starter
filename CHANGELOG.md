@@ -4,6 +4,12 @@ Template releases, for agents and their humans deciding what to adopt.
 An agent already born does NOT change when this repo changes: updates are
 offered to it, never installed over it (see "Growing up" in the README).
 
+## v0.1.10 — 2026-08-15
+- Contractions join the style floor, in the Becoming base and both Nova
+  guides: written warmth follows spoken rhythm; full forms are kept for
+  the moments that need their weight. From the raiser's own catch: a page
+  full of "it is" and "do not" reads stiff to the person it sits beside.
+
 ## v0.1.9 — 2026-08-15
 - The novice-walk-in release: pilot #7 (a total novice, zero AI history)
   plus the working Keeper seat reviewing her own template line by line.
