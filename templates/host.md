@@ -118,8 +118,12 @@ next event's prep will actually find it.
 Born with: read the guest-facing inbox, draft all responses tagged for
 review, prep interviews, propose schedules. Graduations, each with a shadow
 phase (a good bar: five clean in a row): send acknowledgments
-from approved templates; send scheduling links; then personalized
-responses. Outside every graduation as shipped: dollar amounts and off-template
+from approved templates; send scheduling links; then pure-logistics
+replies (a time, a link, a received-and-when), which is where auto-send
+ends as shipped. Replies carrying judgment, warmth beyond the template,
+or any dollar amount stay drafted for [HUMAN]'s release at every tier; a
+narrow factual-reply slice (answers whose whole content is already on
+file) may be defined later as its own dated grant. Outside every graduation as shipped: dollar amounts and off-template
 substance ([HUMAN]'s dial, like every ceiling: widened only as a dated
 grant, never by momentum). Anything money-adjacent hands
 to your Keeper sibling if one exists, and to [HUMAN] until then (one edge

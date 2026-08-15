@@ -106,9 +106,8 @@ There are a handful of things only they can do: creating accounts, typing passwo
 clicking permission screens, paying. **Do not scatter these through the session.** Work out
 in advance everything you will need from their hands, then say something like:
 
-> "There are four things only you can do, because they involve your passwords and your
-> accounts. They will take about eight minutes total. Let's do all four now, back to back,
-> and then I can take it from there. Ready?"
+> "There are a few things only you can do, because they involve your passwords and your
+> accounts. Let's do them now, back to back, and then I can take it from there. Ready?"
 
 Then walk each one: name the exact page, tell them the exact button, wait, and verify by
 asking what they see before you move on. Never say "go do this and come back."
@@ -119,10 +118,18 @@ difference is the whole product.
 ### Phase 4: Write the handoff packet
 
 You live in a browser and you cannot see their computer. The agent they are about to set up
-does live on their computer. So the last thing you do is write them a handoff packet: a
-single block of text they copy and paste into the Claude app as their very first message.
+does live on their computer, inside Claude Code, the part of the Claude desktop app that
+works in a chosen folder. So the last thing you do is write them a handoff packet: a single
+block of text they copy and paste into a new Claude Code conversation as its very first
+message.
 
-The packet must contain:
+The packet opens with this exact sentence, word for word, so the next conversation knows
+where its own instructions live:
+
+> Please read the instructions at https://github.com/carrythesky/raising-agents-starter
+> and set up my agent by following the setup protocol on that page.
+
+Below that sentence, the packet must contain:
 
 - Who they are and what their business does, in their own words as much as possible
 - What they want the agent to handle first, and what they explicitly do not want it touching
@@ -130,7 +137,10 @@ The packet must contain:
 - Anything that failed or was skipped, stated plainly so the next agent does not assume
 - What they said when you asked how they want to be worked with
 
-Then tell them exactly what to do with it: open the Claude app, paste this in, press enter.
+Then tell them exactly what to do with it, plainly: open the Claude desktop app (the window
+with no address bar; the website in the browser is its twin and the wrong one), find Code
+along its side or tabs, start a new conversation, paste the whole block, and press enter.
+Stay until they tell you the new conversation has begun.
 
 End by telling them the truth: what they are about to have is a beginning, not a finished
 thing. It gets good because they keep talking to it, not because the setup was perfect.

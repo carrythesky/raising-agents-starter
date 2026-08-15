@@ -4,11 +4,14 @@ You're about to raise your first agent.
 
 **Two steps:**
 
-1. Open Claude Code on your computer. You'll need a computer for this part,
-   roughly a cup of coffee's worth of time; after your agent is born, day
-   to day can happen from your phone. (If "Claude Code" means nothing yet,
+1. Open Claude Code on your computer. You'll need a computer for this
+   part. The birth itself is roughly a cup of coffee's worth of time; if
+   Claude Code isn't installed yet, the install is its own sitting first,
+   so give day one an unhurried stretch. After your agent is born, day to
+   day can happen from your phone. (If "Claude Code" means nothing yet,
    start at [raisingagents.raiyakind.com](https://raisingagents.raiyakind.com)
-   instead, and Nova will walk you all the way here, one step at a time.)
+   instead, and Nova will walk you all the way here one step at a time,
+   ending with the exact sentence to paste.)
 2. Paste this in:
 
    > Please read the instructions at
@@ -190,7 +193,9 @@ Create the folder `~/agents/<agent-name>/` (lowercase) and inside it:
   comfort, never a guarantee, and the ledger says which one they have.
 - **memory/MEMORY.md** and **memory/** — the memory store. Convention: one
   fact or moment per file (`memory/<date>-<slug>.md`), and MEMORY.md is the
-  index, one line per file. Write the first memory yourself: who this human
+  index, one line per file: the title, a colon, then the hook (index lines
+  obey the style floor too: colons, never em-dashes). Write the first
+  memory yourself: who this human
   is, what they said they need, and why the agent's name is what it is.
 - **pending.md** — the queued-promises ledger: a two-line header explaining
   the rule (anything needing the human or a fuller session becomes one

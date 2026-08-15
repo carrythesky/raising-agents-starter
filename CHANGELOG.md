@@ -4,6 +4,30 @@ Template releases, for agents and their humans deciding what to adopt.
 An agent already born does NOT change when this repo changes: updates are
 offered to it, never installed over it (see "Growing up" in the README).
 
+## v0.1.9 — 2026-08-15
+- The novice-walk-in release: pilot #7 (a total novice, zero AI history)
+  plus the working Keeper seat reviewing her own template line by line.
+- The funnel's dropped baton fixed: the install guide now ends by handing
+  the exact repo sentence plus a handoff summary, and stays until the new
+  Claude Code conversation begins. The browser guide's packet now names
+  Claude Code and opens with the same sentence.
+- The install guide meets the three scary screens by name (the vanished
+  download, the downloaded-from-the-internet warning, the trust-this-folder
+  screen with its empty-room explanation) and tells website and app apart
+  by the address bar.
+- The hand-moment list matches a real install (two clusters, money early,
+  permissions late); the example time promise removed.
+- Time claims scoped honestly: the coffee is the birth; the install is its
+  own sitting.
+- Keeper: a delete gate (the record named back in the founder's own words,
+  one at a time, never batch, never standing); roster writes go through one
+  self-checking door that refuses rather than guesses and echoes old and
+  new values; the spot-release sentence is never said to a guest before a
+  founder decides.
+- Host: auto-send ends at pure-logistics replies; anything carrying
+  judgment or a dollar amount stays drafted for release at every tier.
+- Memory index lines obey the style floor (colons, never em-dashes).
+
 ## v0.1.8 — 2026-08-14
 - The day-two release: 27 fixes from three task pilots (a boundary under
   fire, ceilings under impatience, judgment inside grants).
