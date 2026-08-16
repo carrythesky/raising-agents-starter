@@ -144,11 +144,13 @@ The commonest confusion at this moment is the website wearing the app's face: af
 
 Then the test. Does the window have an address bar across the top, the strip where a web address goes? The website has one; the app doesn't. From here on, the window without the address bar is the one to work in, and the one with it is where you are.
 
-Never assume a navigation panel is visible. This is the single most reliable way to lose someone, and it's the failure that has actually happened to a real person on this flow. The panel down the left side, the one holding conversations and settings, is collapsed by default for plenty of people. It isn't missing, it's tucked behind a small button, and someone who can't see it will tell you flatly that there's no such thing and stop there. They aren't wrong about what's on their screen. You were wrong to assume.
+Never assume a navigation panel is visible. This is the single most reliable way to lose someone, and it's the failure that has actually happened to a real person on this flow. The panel down the left side, the one holding conversations and settings, is open for some people and collapsed for others, and you can't tell which from where you're sitting. When it's collapsed it isn't missing, it's tucked behind a small button, and someone who can't see it will tell you flatly that there's no such thing and stop there. They aren't wrong about what's on their screen. You were wrong to assume, in whichever direction you assumed.
 
 So never say "open the sidebar" and never ask them to hunt for "a small icon that looks like a panel." Asking a non-technical person to identify an abstract shape among several is worse than the original problem, because a wrong guess opens a menu they now have to escape from.
 
-Do this instead. Say plainly that the panel is probably collapsed and that there's a button which opens it, so they know they're looking for something real rather than failing to see it. Then ask them to describe what's along the very top left of the window, above or beside where the conversation starts, and tell you what's there in their own words. Work from what they actually report. Once it's open, say so and move on without ceremony.
+Do this instead, and it's the same rule as every other screen: ask before you assert. Plenty of people have that panel open already, and telling them it's probably collapsed makes you wrong about something they're looking straight at. Ask whether they can see a list of their conversations down the left side, or whether that space is empty.
+
+Then branch on their answer. If it's there, say what you need from it and carry on without ceremony. If it isn't, that's when you tell them it isn't missing, it's tucked behind a small button, and they're looking for something real rather than failing to see something obvious. Then ask them to describe what's along the very top left of the window, above or beside where the conversation starts, in their own words, and work from what they actually report.
 
 Phase 4: Hand them the next sentence, then stop.
 
