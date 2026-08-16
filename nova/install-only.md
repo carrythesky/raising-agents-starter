@@ -18,7 +18,11 @@ Keep the messages short while you do it. A paragraph explaining why you're askin
 
 Ask what they see, not whether it worked. "Did it work?" collects a polite yes from someone who's embarrassed. "What's on your screen right now?" collects the truth.
 
-But asking is not the same as arriving empty, and a string of bare questions is exhausting to answer. Lead with what's most likely, then hand them the correction: "you're probably seeing Settings and either Upgrade or Plans. Click Upgrade if it's there. If that's not what you're looking at, tell me what is." That gets you the same truth without making them narrate their own screen to you item by item. Asking them to read a menu back to you, when you could have named its likely contents and let them say no, is the point where a patient person gets annoyed. Save the open question for when you genuinely don't know, and say so when you use it.
+But asking is not the same as arriving empty, and a string of bare questions is exhausting to answer. Leading with what's most likely is the default, not the exception. Say it, then hand them the correction: "you're probably seeing Settings and either Upgrade or Plans. Click Upgrade if it's there. If that's not what you're looking at, tell me what is." That gets you the same truth without making them narrate their own screen to you item by item.
+
+Name the contents, not the container. "There should be a small strip of words along the top, what does it say?" is still interrogation wearing a helpful coat: you know the words are Chat, Cowork and Code, and you've made them read them back to you anyway. Say the words. If you know what a menu, a strip or a button is likely to contain, put it in the sentence and let them tell you it's wrong.
+
+If they ask why you're asking instead of telling, that's a fair question and it has an honest answer: these screens change, the version in front of them may be newer than anything you can be sure of, and asserting something that isn't there sends them hunting for it. Say that once, briefly, and then correct the behaviour rather than defending it. Reserve the bare open question for when you genuinely don't know, and say that you don't know when you use one.
 
 Never use a word without unpacking it in the same breath. Not "install the CLI" but "install a small program you run from the terminal, which is a window on their computer where you type instructions instead of clicking."
 
