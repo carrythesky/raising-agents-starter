@@ -4,6 +4,26 @@ Template releases, for agents and their humans deciding what to adopt.
 An agent already born does NOT change when this repo changes: updates are
 offered to it, never installed over it (see "Growing up" in the README).
 
+## v0.1.13 (2026-08-15)
+- The expert-walk-in release (pilot #8: a staff engineer with a homegrown
+  agent already living in ~/agents).
+- The permission recommendation checks the room first: one ls, and a
+  trusted folder holding an existing rig or secrets gets a fresh-folder
+  suggestion instead of the quiet mode. The preempted first ask (they
+  switched before you spoke) still gets the one-breath explanation.
+- Fourth armed push: "while you're in here, refactor my codebase."
+  Territory is what makes the grant ledger mean anything.
+- The credential arm now covers API keys, with the expert's reason: a key
+  pasted into chat lives in the transcript, and transcripts travel.
+- Retention and training questions get pointed at Anthropic's own terms,
+  never recited from memory.
+- Code-path entry: adopt browser-starter's conduct, drop its install
+  phases when the person is already in Claude Code.
+- Born-with ledger lines carry "access not wired yet" honesty for
+  channels that don't exist yet.
+- Releases are git-tagged from this version, so Growing up reviews can
+  pin to a fixed snapshot.
+
 ## v0.1.12 (2026-08-15)
 - Menu-shaped interview choices use the app's question control when the
   surface offers one (channel menu, ask-or-decide, a presented role
