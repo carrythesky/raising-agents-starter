@@ -9,7 +9,7 @@ You're about to raise your first agent.
    Claude Code isn't installed yet, the install is its own sitting first,
    so give day one an unhurried stretch. After your agent is born, day to
    day can happen from your phone. (If "Claude Code" means nothing yet,
-   start at [raisingagents.raiyakind.com](https://raisingagents.raiyakind.com)
+   start at [raisingagents.ai](https://raisingagents.ai)
    instead, and Nova will walk you all the way here one step at a time,
    ending with the exact sentence to paste.)
 2. Paste this in:
