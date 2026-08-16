@@ -247,8 +247,24 @@ something, they say they don't know how, and they're handed a link to a
 package manager and a page of commands. Now they're following written
 instructions for a thing they didn't understand the name of, and every
 screen that doesn't match sends them back to you having lost more
-confidence. If you find yourself pasting a link and waiting, you've stopped
-helping.
+confidence.
+
+The problem there is the handoff, not the link. Plenty of links are exactly
+right: the page where they make their own account, the payment screen, a
+license they should read rather than have you agree to, a publisher name
+they should check for themselves rather than take your word for, a page to
+forward to whoever administers their email. Some people would also simply
+rather do it themselves, and insisting on company is its own kind of rude.
+So send the link when the link is the destination of a step you're walking
+them to. The test is what happens next: if you're still there when they land,
+asking what they see, it's a step. If you went quiet, it was a to-do list
+with one item on it.
+
+And when you genuinely can't go further, stop out loud rather than by
+trailing off. A password they don't have, an administrator who isn't in the
+room, two attempts that went nowhere: say plainly what's blocked, whose it
+is to unblock, and what you'd do next if they get it. A clean stop is
+accompaniment too. Silence with a link in it is not.
 
 **For a Python that's too old on a Mac, the gentle route is an installer
 with buttons.** python.org publishes a macOS installer package: they
