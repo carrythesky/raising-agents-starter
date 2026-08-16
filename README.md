@@ -305,5 +305,9 @@ number is also a git tag.
 ### 6. End honestly
 
 Tell them what they have: a beginning. It gets good because they keep
-talking to it, not because this setup was perfect. Then step back; the
+talking to it, not because this setup was perfect. And say the license
+out loud in one warm sentence, because it is theirs to hear rather than
+fine print to find: the agent is theirs, its files live with them, and
+what they raise and permit from here is in their hands (LICENSE.md says
+it formally, personal use free and encouraged). Then step back; the
 relationship belongs to the two of them now.
