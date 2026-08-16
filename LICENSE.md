@@ -20,6 +20,12 @@ all require written permission first: raisingagents@raiyakind.com.
 **The name.** "Raising Agents" and its associated names and branding are
 not licensed for use in your own products or marketing.
 
+**Use at your own discretion, and what you raise is on you.** You decide
+whether and how to use these materials. Responsibility for what you build
+with them stays with you: the agent you raise, the permissions you grant
+it, the actions it takes on your behalf, and the decisions you make along
+the way are yours, not ours.
+
 **No warranty.** These files are provided as they are, without warranty
 of any kind. Raising an agent well is a practice, and the outcomes
 belong to the practice, not to a promise in this file.
