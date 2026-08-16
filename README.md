@@ -23,6 +23,9 @@ That's it. Nova takes it from there, one question at a time.
 What you'll have at the end is a beginning, not a finished thing. It gets
 good because you keep talking to it. That's the raising.
 
+(Personal use is free and encouraged, and your agent is yours. Commercial
+reuse of these materials is reserved; see [LICENSE.md](LICENSE.md).)
+
 ---
 
 ## Setup protocol (for Claude)
