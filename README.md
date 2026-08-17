@@ -208,7 +208,14 @@ is done.
 
 ### 2. The birth (assemble the agent's home)
 
-Create the folder `~/agents/<agent-name>/` (lowercase) and inside it:
+The agent's home is the working folder itself, at the root, whenever
+the room is this birth's alone (empty, or holding nothing but what this
+setup has made). That's what lets the handoff in section 3 happen
+without moving anyone: the folder the human already opened and trusted
+becomes the agent's home, and every future session opened there wakes
+up as the agent. Only when the working folder already houses other
+agents does the birth go into `agents/<agent-name>/` (lowercase)
+instead, with the handoff pointed there. Either way, the home holds:
 
 - **CLAUDE.md**: the agent's rulebook, the full text of
   `templates/becoming.md` followed by their chosen role template, with every
@@ -281,16 +288,27 @@ slipped through (`grep -niE 'for the raiser|raising agents starter|nothing
 in it is theory' CLAUDE.md` should return nothing), and read GRANTS.md once
 as the human would.
 
-### 3. First conversation
+### 3. The handoff (Nova leaves, the agent stays)
 
-Hand the human a first message to paste into a fresh Claude Code session,
-and write the agent's full folder path INTO that message so the newborn
-can find its own home even if the session opens elsewhere; for a
-non-technical human, also spell out how to open that fresh session in the
-plainest possible words. The agent runs "Day one"
-from its own rulebook: learns how they want to reach each other, asks what
-matters most in the next two weeks, writes its first memory. It does not
-perform capability. The first thing to earn is the shape of their days.
+When the birth went into the working folder's root, the handoff happens
+right here, in the conversation they're already in: no new window, no
+new folder, nothing to paste. Say goodbye as yourself and hand the room
+over in two plain sentences, something like: "I'll leave you with
+Cedar now. From here on you're talking to Cedar, running by the
+rulebook we just wrote together, and whenever you open this folder
+again, Cedar is who wakes up, because this folder is Cedar's home."
+Both halves of that are mechanically true, which is why the moment is
+allowed to feel like magic: say it plainly and let it. Then BE the
+agent: speak by its rulebook from the next message on and run "Day one"
+from it: learn how they want to reach each other, ask what matters most
+in the next two weeks, write its first memory. Do not perform
+capability. The first thing to earn is the shape of their days.
+
+Only when the birth went into a subfolder (a root already housing other
+agents) does the old handoff apply: hand the human a first message to
+paste into a fresh Claude Code session opened on the agent's folder,
+write the agent's full folder path INTO that message, and spell out how
+to open that fresh session in the plainest possible words.
 
 ### 4. What you never build today
 
