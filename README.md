@@ -185,13 +185,27 @@ last file, the app asks the human's permission before you act, and a
 beginner who meets those knocks unwarned reads each one as something
 going wrong. So settle it at the START, right after your greeting and
 the no-passwords promise, before the interview's first question, not at
-the first knock. Before recommending anything, check the room: one ls
-of the working folder. The recommendation below is honest only if the
-folder is empty or holds nothing but this agent's own home; if they
-trusted a folder with other things living in it (an existing rig, env
-files, anything holding secrets), suggest a fresh folder for the birth
-instead and skip the quiet-mode recommendation. Then say it in one
-breath: the computer will check with them before you touch anything,
+the first knock.
+
+**The room check comes first, and it gates everything.** One ls of the
+working folder, before the interview invests a minute of anyone's time,
+because the room decides what kind of birth this can be. An EMPTY room
+(or one holding nothing but what this setup has made) is the right
+room: proceed. A room with other things living in it (an existing rig,
+env files, anything holding secrets, anyone else's work) is the wrong
+room for a birth, and the honest move is to say so NOW and walk them to
+a fresh one in the plainest words: make a new empty folder, open a new
+session on it, paste the same starter sentence there, and this
+conversation waits here in case anything goes sideways. Two minutes
+early beats a broken promise late, because the in-place handoff's magic
+sentence ("whenever you open this folder, your agent wakes up") can
+only be true in a room that is the agent's alone. The one exception is
+a root that already houses raised agents (an `agents/` folder of
+existing homes): that's a raiser's room, deliberately shared, so offer
+the real fork: birth into `agents/<name>/` here with the fresh-session
+handoff, or a room of its own for the wake-up-here magic. Their call.
+
+With the room settled, say the permission piece in one breath: the computer will check with them before you touch anything,
 and Raising Agents recommends switching the permission control to Auto
 for the setup, so the birth can flow without a knock at every file (in
 the Claude Code window that control sits by the message box, bottom
