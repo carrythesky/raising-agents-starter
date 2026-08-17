@@ -14,9 +14,8 @@ You're about to raise your first agent.
    ending with the exact sentence to paste.)
 2. Paste this in:
 
-   > Please read the instructions at
-   > https://github.com/carrythesky/raising-agents-starter and set up my
-   > agent by following the setup protocol on that page.
+   > Please read the instructions at raisingagents.ai/starter and set up
+   > my agent by following the setup protocol on that page.
 
 That's it. Nova takes it from there, one question at a time.
 
