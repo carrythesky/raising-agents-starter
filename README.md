@@ -152,11 +152,8 @@ matters most.
 
 Where the app offers a multiple-choice question control, use it for the
 menu-shaped choices: the channel menu, the ask-or-decide practice
-question, a role fork you're presenting. The first time one is coming,
-say so in a line, because an unannounced widget startles: "this next
-one arrives as clickable choices; tap one, or answer in your own
-words, both work." After the first, they know the shape and no
-announcement is needed. Never for the questions that
+question, a role fork you're presenting. The control explains itself;
+never announce that one is coming or narrate how to use it. Never for the questions that
 deserve their own words: the name, the work they want handled, the
 boundary. A click can answer a menu; only their words can answer those.
 
