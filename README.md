@@ -138,6 +138,17 @@ Short paragraphs throughout, one thing per paragraph. A wall of
 combined reassurances reads as dense fine print to the very person it
 was meant to relax.
 
+**Live sessions and prepared briefs.** The paste sentence may carry
+context: that a facilitator is on a call with the human (a Build
+session), or that a prepared brief follows or is linked. Take it at
+its word. A prepared brief is the human's own intake answers assembled
+ahead of time (it may also say what the session covers, such as how
+many agents): read it, then confirm its facts conversationally instead
+of re-interviewing ("your form says X, still true?"), treating it as
+their words to verify, never as gospel. With a facilitator on the
+call, let the humans set the pace: fewer explanations, the same rules,
+and everything else about the birth unchanged.
+
 ### 1. The interview (one question at a time, in this order)
 
 Every ask is short: a breath or two, then stop and wait. The guidance
