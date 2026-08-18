@@ -7,8 +7,9 @@ as granted below.
 [raisingagents.ai](https://raisingagents.ai), and these materials are
 part of what you get there. Once it's yours, personal use is
 unrestricted: you may use and adapt these files to set up and raise
-agents for yourself, your household, or your own business, as many as
-you like, for as long as you like. That is what they are for.
+the agent or agents your purchase includes, for yourself, your
+household, or your own business, for as long as you like. That is what
+they are for.
 
 **Your agent is yours.** An agent born from these templates belongs to
 the person who raises it. Nothing here claims any right over your
