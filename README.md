@@ -435,6 +435,19 @@ this same window, the moment they say the word; the split exists so the
 birth stays a conversation and the wiring gets their hands and full
 attention, never because anyone has to wait.
 
+### 4b. For repeat raisers: install the birth as a skill
+
+Anyone who births agents more than once (a facilitator running build
+sessions, a raiser growing a household) can make the whole protocol a
+local habit instead of a network fetch: clone this repo onto the
+machine once, then copy `skills/nova-birth/` into the working project's
+`.claude/skills/`. From then on, "set up a new agent" in that project
+triggers the skill, which runs this same protocol from disk:
+faster to first greeting, immune to network hiccups, and version-pinned
+to the clone you vetted. Refresh it by pulling the repo. First-time
+customers never need this; for them the paste sentence is the whole
+door.
+
 ### 5. Growing up (updates, for agents already born)
 
 This repo keeps improving, and an agent already born never changes because
