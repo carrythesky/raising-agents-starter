@@ -435,18 +435,21 @@ this same window, the moment they say the word; the split exists so the
 birth stays a conversation and the wiring gets their hands and full
 attention, never because anyone has to wait.
 
-### 4b. For repeat raisers: install the birth as a skill
+### 4b. The birth as an installed skill (households and facilitators)
 
-Anyone who births agents more than once (a facilitator running build
-sessions, a raiser growing a household) can make the whole protocol a
-local habit instead of a network fetch: clone this repo onto the
-machine once, then copy `skills/nova-birth/` into the working project's
-`.claude/skills/`. From then on, "set up a new agent" in that project
-triggers the skill, which runs this same protocol from disk:
-faster to first greeting, immune to network hiccups, and version-pinned
-to the clone you vetted. Refresh it by pulling the repo. First-time
-customers never need this; for them the paste sentence is the whole
-door.
+`skills/nova-birth/` packages this protocol as a Claude Code skill for
+the two places repeated births actually happen: a facilitator's build
+sessions, and a household root where several agents share one
+`agents/` folder. Clone this repo onto the machine once, copy
+`skills/nova-birth/` into that project's `.claude/skills/`, and "set up
+a new agent" there runs the protocol from disk: no network fetch,
+version-pinned to the clone that was vetted. An installed copy ages as
+this repo improves, so it belongs where someone owns refreshing it
+(pull the repo, re-copy): that is a tending job, part of how a
+household is kept, and deliberately part of the white-glove tier
+rather than the self-serve path. Everyone else, first birth or fifth,
+uses the paste sentence: it is always current and never touches the
+machine beyond the one folder in play.
 
 ### 5. Growing up (updates, for agents already born)
 
