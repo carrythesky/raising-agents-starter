@@ -18,7 +18,7 @@ agent's rulebook copy, its grant ledger, its memory, or its work.
 **What stays reserved.** Republishing or reselling these materials,
 offering them or derivatives of them as part of a paid product, course,
 service, or template collection, and presenting them as your own work
-all require written permission first: raisingagents@raiyakind.com.
+all require written permission first: hello@raisingagents.ai.
 
 **The name.** "Raising Agents" and its associated names and branding are
 not licensed for use in your own products or marketing.
