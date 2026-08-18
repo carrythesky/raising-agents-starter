@@ -403,7 +403,11 @@ are all grants that come after birth, one at a time, per the phased-birth
 rule in the templates: nothing is built ahead of the trust that carries it.
 If the human asks for them today, write each one into pending.md as a dated
 line, and tell them the truth: that's day two and onward, and it will be
-better for having a day one.
+better for having a day one. Say what "day two" is in the same breath: a
+phase, not a calendar day. It can start five minutes after the birth, in
+this same window, the moment they say the word; the split exists so the
+birth stays a conversation and the wiring gets their hands and full
+attention, never because anyone has to wait.
 
 ### 5. Growing up (updates, for agents already born)
 
