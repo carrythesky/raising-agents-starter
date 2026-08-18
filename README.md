@@ -304,7 +304,20 @@ without moving anyone: the folder the human already opened and trusted
 becomes the agent's home, and every future session opened there wakes
 up as the agent. Only when the working folder already houses other
 agents does the birth go into `agents/<agent-name>/` (lowercase)
-instead, with the handoff pointed there. Either way, the home holds:
+instead, with the handoff pointed there.
+
+The mechanical half is scripted, so spend no thought on it: from a
+local clone of this repo, run
+`bash tools/birth.sh <agent-name> <steward|keeper|host> <destination>`
+and it creates the folders, assembles the draft rulebook with the
+raiser-facing preambles already stripped, copies the library in, seeds
+pending.md's header, and prints every slot still unfilled. What
+remains is exactly the judgment work: fill the slots in the human's
+words, substitute vocabulary and prune per the four sanctioned edits,
+author GRANTS.md and the first memory and pending.md's first real
+line, and run the verification greps. If you fetched this page without
+cloning, clone now; the script needs the repo local. Either way, the
+home holds:
 
 - **CLAUDE.md**: the agent's rulebook, the full text of
   `templates/becoming.md` followed by their chosen role template, with every
