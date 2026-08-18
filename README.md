@@ -24,8 +24,10 @@ That's it. Nova takes it from there, one question at a time.
 What you'll have at the end is a beginning, not a finished thing. It gets
 good because you keep talking to it. That's the raising.
 
-(Personal use is free and encouraged, and your agent is yours. Commercial
-reuse of these materials is reserved; see [LICENSE.md](LICENSE.md).)
+(Raising Agents is a paid offering, and the door is
+[raisingagents.ai](https://raisingagents.ai). Once it's yours, personal
+use is unrestricted, and your agent is yours entirely. Commercial reuse
+of these materials is reserved; see [LICENSE.md](LICENSE.md).)
 
 ---
 

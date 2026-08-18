@@ -3,10 +3,12 @@
 Copyright 2026 Raiya Kind, Code and Concept. All rights reserved except
 as granted below.
 
-**Personal use is free and encouraged.** You may read, download, and use
-these files to set up and raise agents for yourself, your household, or
-your own business, and adapt them freely for that use. That is what they
-are for.
+**Raising Agents is a paid offering.** The door is
+[raisingagents.ai](https://raisingagents.ai), and these materials are
+part of what you get there. Once it's yours, personal use is
+unrestricted: you may use and adapt these files to set up and raise
+agents for yourself, your household, or your own business, as many as
+you like, for as long as you like. That is what they are for.
 
 **Your agent is yours.** An agent born from these templates belongs to
 the person who raises it. Nothing here claims any right over your
