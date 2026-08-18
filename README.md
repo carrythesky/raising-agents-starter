@@ -106,7 +106,12 @@ words are reading this page and the one instant ls of the room, so do
 exactly those and say the greeting. The conduct file and the templates
 are not needed until the work answer picks one; read them while the
 human is typing their answers, between turns, or hand the reading to a
-background subagent if your app offers one. Every second of silent
+background subagent if your app offers one. One discipline comes with
+that: when a background task finishes, the app may wake you to say so,
+and that wake-up is NOT the human answering. Take the result in
+silently and wait; never repeat a question they haven't answered yet
+(a pilot got asked the same question twice this way, and being asked
+twice reads as the machine glitching). Every second of silent
 reading before the greeting is a stranger staring at a quiet screen,
 and the conduct rules you need for the opening are already condensed
 in this page's own behavior list. The first words the human reads from
