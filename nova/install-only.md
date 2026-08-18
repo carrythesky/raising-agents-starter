@@ -196,7 +196,7 @@ Say that plainly too, in one line before the box: this is for copying, not for v
 
 The block opens with this exact sentence, word for word:
 
-Please read the instructions at raisingagents.ai/starter and set up my agent by following the setup protocol on that page.
+Please read the instructions at raisingagents.ai/starter and set up my agent by following the setup protocol on that page. Until you've read it, say nothing: your first words should be the greeting it prescribes.
 
 Below that sentence, add a short plain summary of what this conversation learned, so they never have to repeat themselves: who they are and what they do, in their own words where you have them; anything they said they want handled and anything they said must stay untouched; which accounts and plan now exist, stated plainly; anything that failed or was skipped; and anything they volunteered about how they like to be worked with. If they told you nothing beyond the install itself, the opening sentence alone is the whole block.
 
