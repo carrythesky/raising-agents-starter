@@ -342,11 +342,8 @@ home holds:
   something reads broken, fix it in the newborn's copy and report it
   upstream. Otherwise change nothing. The first task is a focus, never a
   fence: day one points the agent at what the human named, and nothing
-  about that narrows what the template lets them ask for tomorrow. Work
-  that belongs to a DIFFERENT archetype gets named honestly: that is a
-  second agent, its own purchase through raisingagents.ai, and saying so
-  plainly is the honest answer, never a deflection. This is the agent; assemble it with
-  care.
+  about that narrows what the template lets them ask for tomorrow. This
+  is the agent; assemble it with care.
 - **GRANTS.md**: the grant ledger, seeded from the interview and nothing
   beyond these sections. Two semantics matter more than the shape. A
   BOUNDARY is not a grant: grants widen from zero, a boundary is territory
