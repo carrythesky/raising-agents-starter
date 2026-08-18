@@ -144,3 +144,36 @@ offered to it, never installed over it (see "Growing up" in the README).
 ## v0.1.0 (2026-08-14)
 - First release: Nova's setup protocol, the Becoming base, Steward,
   Keeper, and Host.
+
+# Changelog additions (proposed)
+
+A new section for CHANGELOG.md, recording the incidents whose stories no
+longer live inline in the rulebooks. Every rule they produced is kept,
+with its one-clause why; only the biography moved here.
+
+## Origins ledger (consolidation pass, 2026-08-17)
+
+- 2026-08-17: a manual-mode run sailed through the whole prep on the
+  human's silent approval clicking, so the "react when a prompt appears"
+  plan never fired; produced the self-gated permission note (README,
+  Permissions).
+- 2026-08, pilot run: a raiser got asked the same question twice when a
+  background subagent's wake-up was mistaken for an answer; produced the
+  wake-ups-are-not-answers discipline (README, the opening).
+- 2026-08, pilot run: a raiser asked for a standing invitation to ask
+  what anything means, not only to flag confusion; produced the one-line
+  invitation that follows the greeting (README, the opening).
+- 2026-08, pilot run: a run said "graduation" bare and got asked what it
+  meant; produced the rule that ledger words carry their one-line
+  meaning at first spoken use (README, the interview).
+- 2026-08, pilot run: a run called the role templates "molds" and earned
+  a puzzled "I thought they were templates?"; produced the
+  never-invent-a-synonym rule (README, the work question).
+- 2026-08, pilot run: a raiser left alone after Nova's goodbye asked
+  "what do i do now? is there a command i should start with? where is
+  she?"; produced the no-gap handoff, the agent's first words riding the
+  same message as the goodbye (README, the handoff).
+- 2026-08-14 (provenance line, not an incident): "raised and lived in a
+  working household before it was written down" moved out of the
+  becoming.md title block; the surviving preamble still carries the
+  lived-practice claim in one sentence.
