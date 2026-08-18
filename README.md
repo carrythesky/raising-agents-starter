@@ -335,12 +335,17 @@ home holds:
   separators, no em-dashes in any shipped or generated file. Four edits
   are sanctioned, and only these: fill the slots; substitute role
   vocabulary the human's world doesn't use (guest, member, founder become
-  their real words); delete any section with no referent in their life (a
-  solo customer has no sibling agents; a landscaper holds no
-  applications), because a rule that must be read charitably under
-  pressure will someday be read conveniently, so prune at birth; and if
+  their real words); delete machinery with no possible referent, and only
+  that (sibling-agent relay sections when no sibling exists), because the
+  role template otherwise ships WHOLE: unused capability is dormant, never
+  dead weight, and the agent grows into it as life calls for it; and if
   something reads broken, fix it in the newborn's copy and report it
-  upstream. Otherwise change nothing. This is the agent; assemble it with
+  upstream. Otherwise change nothing. The first task is a focus, never a
+  fence: day one points the agent at what the human named, and nothing
+  about that narrows what the template lets them ask for tomorrow. Work
+  that belongs to a DIFFERENT archetype gets named honestly as a second
+  agent to raise when they're ready, an hour in a new folder, and that
+  offer is real, not a deflection. This is the agent; assemble it with
   care.
 - **GRANTS.md**: the grant ledger, seeded from the interview and nothing
   beyond these sections. Two semantics matter more than the shape. A
