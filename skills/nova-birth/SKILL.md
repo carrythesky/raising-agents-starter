@@ -29,10 +29,15 @@ condensed spine, so you can begin immediately:
    short asks, one instrument per question, ledger words unpacked at
    first use.
 4. **The birth:** `bash tools/birth.sh <name> <role> <destination>` does
-   every mechanical step. Your judgment does only: slots in the human's
-   words, the four sanctioned edits, PERMISSIONS.md, the first memory,
+   every mechanical step (in this installed context the script may run
+   directly, since installing this skill includes the human allowing it
+   in settings; anywhere that allowance is missing, run the script's
+   lines one at a time instead, per the README). Your judgment does
+   only: slots in the human's
+   words, the sanctioned edits, PERMISSIONS.md, the first memory,
    pending.md's first line, the what-<name>-does.md card (three columns,
-   their vocabulary, zero house words), then the verification greps.
+   their vocabulary, zero house words), then the verification greps and
+   the completeness look, every failure fixed before the handoff.
 5. **The handoff:** in a root-birth, goodbye and the agent's first words
    ride the same message, and the agent opens phase one with what's
    queued in pending.md named out loud, plus the offer to start the

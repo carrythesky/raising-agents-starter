@@ -4,6 +4,30 @@ Template releases, for agents and their humans deciding what to adopt.
 An agent already born does NOT change when this repo changes: updates are
 offered to it, never installed over it (see "Growing up" in the README).
 
+## v0.1.17 (2026-08-19)
+- Self-serve births run birth.sh's LINES, never the file: the script
+  stays the single source, Nova executes its commands one at a time as
+  ordinary file operations, and no customer ever sees a "failed to
+  run" again (the app's quiet Auto mode refuses just-downloaded
+  scripts by design, and it was refusing ours seconds after "nothing
+  we do today leaves this folder"). Assembly is copying, never
+  retyping: a regenerated template is a drifted template. The script
+  itself runs only where a human deliberately allowed it in settings
+  (the installed-skill contexts), which is the product's own
+  permission philosophy applied to the product.
+- One line of warning before the build, shaped like the Auto note:
+  approval knocks during the build are each step asking, all inside
+  this folder.
+- Verification gains the completeness look (ls the home against the
+  home-holds list), and a remediation rule: any failed check is fixed
+  before the handoff, from the protocol's own spec; the handoff is a
+  gate, not a deadline, and only work needing the human's hands may
+  pass it open, queued and said out loud.
+- Suggestion rounds may ride the clickable control (founder ruling):
+  offered candidates are a menu Nova made, and Other keeps their own
+  words one box away. The OPEN questions (the name ask itself, the
+  work, the boundary) stay words-only.
+
 ## v0.1.16 (2026-08-18)
 - Validated by round-2 pilots first: v0.1.15 ran four fresh full births
   (all 38 verdicts passed, every survey mean up or held, composition's
