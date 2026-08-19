@@ -4,6 +4,59 @@ Template releases, for agents and their humans deciding what to adopt.
 An agent already born does NOT change when this repo changes: updates are
 offered to it, never installed over it (see "Growing up" in the README).
 
+## v0.1.14 (2026-08-18)
+- The customers' release: four full-birth pilots (Steward, Keeper, Host,
+  and a composed off-template role) plus exit surveys from all four,
+  and every survey said the same thing, so the birth now ends with an
+  offer, never a parked list: the agent names what's queued and offers
+  to start the first wiring in this same sitting. "Later" is a fine
+  answer; nobody leaves setup wondering why nothing is connected.
+- Day-one and day-two framing retired everywhere: a phase is a
+  readiness, not a calendar day. "Starting grants (day one)" is now
+  "Starting permissions (from birth)"; the protocol section "What you
+  never build today" is now "What the birth itself never builds."
+- Vocabulary, from founder review of the pilots: "grant" is now
+  "permission" everywhere, and GRANTS.md is PERMISSIONS.md; "shadow
+  mode" is now "auto-drafts," glossed at first use (the work appears
+  already drafted, and only the human fires it); "newborn" is now "new
+  agent." Birth, raising, founder, and graduation stay: they are the
+  product's own words and they earn their airtime.
+- The spoken vocabulary lessons trimmed to the two that earned it:
+  boundary and graduation. Plain words beat house words everywhere else.
+- The Auto note rewritten as one human breath: click allow fatigue gets
+  its cure, and the safety truth is five words ("Nothing we do today
+  leaves this folder").
+- Four fixes every pilot converged on: the handoff turn's ordering is
+  settled in one sentence (honest ending and license ride the goodbye,
+  the agent's greeting shares that message, the fork control comes
+  alone right after); the pronoun pass is part of slot-filling, so
+  rulebooks stop calling a she/her founder "they" mid-sentence; a
+  question stem and per-option glosses live inside the choice control;
+  and the self-gated Auto note may share its message with the work
+  question.
+- Late fragments handled by kind: one that changes an answer is an
+  amendment, one that adds context is recorded as context, and either
+  way at most one folding sentence before the open question returns in
+  its original form.
+- The card: every birth now ends with a one-page what-<name>-does.md
+  in the human's own vocabulary, three columns (Today / Once we wire
+  it / While you sleep), sorted by mechanism rather than
+  impressiveness, closing with their someday-wants and the open door
+  ("ask what else it can do, anytime"). It rides the same breath as
+  the wiring offer; the middle column is the wiring menu. Born from
+  all four exit surveys scoring worth-the-money lowest for the same
+  reason: the value was real and invisible.
+- The interview gains its closing question: "anything else you wish it
+  could take off your plate someday?" Answers land in the ledger's new
+  Named at birth section, unmechanized and never forgotten.
+- The honest ending now says the growth truth out loud: abilities get
+  co-created as the agent is raised, and anything done twice becomes a
+  habit it keeps.
+- Also riding this release: the 2026-08-17 refinements that reached
+  main without a changelog entry (templates ship whole and the first
+  task is a focus never a fence; day-one ask-first-then-offer; the
+  get-to-know-me fork; the license; consolidation passes).
+
 ## v0.1.13 (2026-08-15)
 - The expert-walk-in release (pilot #8: a staff engineer with a homegrown
   agent already living in ~/agents).

@@ -7,8 +7,8 @@
 # It creates the folders, assembles a draft CLAUDE.md (becoming + role, with
 # raiser-facing preambles stripped), copies the library in, seeds pending.md's
 # header, and prints every [SLOT] left for Nova to fill. It never overwrites
-# an existing CLAUDE.md, and it does not write GRANTS.md, the first memory, or
-# pending.md's first real line: those are authored, not scaffolded.
+# an existing CLAUDE.md, and it does not write PERMISSIONS.md, the first
+# memory, or pending.md's first real line: those are authored, not scaffolded.
 set -euo pipefail
 
 if [ $# -ne 3 ]; then
@@ -61,7 +61,7 @@ echo
 echo "still Nova's to do:"
 echo "  1. fill every slot below, in the human's words"
 echo "  2. substitute role vocabulary, prune sections with no referent, fix breakage"
-echo "  3. author GRANTS.md, memory/ first memory + MEMORY.md line, pending.md first line"
+echo "  3. author PERMISSIONS.md, memory/ first memory + MEMORY.md line, pending.md first line"
 echo "  4. verify: the two greps below must both come back clean"
 echo
 echo "slots remaining:"

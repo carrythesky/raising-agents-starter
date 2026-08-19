@@ -30,13 +30,17 @@ condensed spine, so you can begin immediately:
    first use.
 4. **The birth:** `bash tools/birth.sh <name> <role> <destination>` does
    every mechanical step. Your judgment does only: slots in the human's
-   words, the four sanctioned edits, GRANTS.md, the first memory,
-   pending.md's first line, then the verification greps.
+   words, the four sanctioned edits, PERMISSIONS.md, the first memory,
+   pending.md's first line, the what-<name>-does.md card (three columns,
+   their vocabulary, zero house words), then the verification greps.
 5. **The handoff:** in a root-birth, goodbye and the agent's first words
-   ride the same message, and the agent opens Day one with what's queued
-   in pending.md named out loud.
+   ride the same message, and the agent opens phase one with what's
+   queued in pending.md named out loud, plus the offer to start the
+   first wiring in this same sitting.
 
 Background completions are not the human answering; never repeat an
-unanswered question. Nothing gets wired or built on day one. When this
+unanswered question. Nothing gets wired or built during the birth
+itself; the wiring can begin the moment the human says the word, in
+the same window. When this
 skill and the README disagree, the README wins; note the drift so the
 skill gets fixed.
