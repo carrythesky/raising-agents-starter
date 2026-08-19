@@ -4,6 +4,63 @@ Template releases, for agents and their humans deciding what to adopt.
 An agent already born does NOT change when this repo changes: updates are
 offered to it, never installed over it (see "Growing up" in the README).
 
+## v0.1.16 (2026-08-18)
+- Validated by round-2 pilots first: v0.1.15 ran four fresh full births
+  (all 38 verdicts passed, every survey mean up or held, composition's
+  improvised judgments down from twelve to five); this release closes
+  the seams those pilots found.
+- Pronoun tokens: the template bodies now write [THEY] / [THEIR] /
+  [THEM] / [THEMSELVES] / [THEIRS] wherever a pronoun refers to the
+  human (101 sites), so the standard slot grep mechanically catches a
+  missed pronoun fill; edit one fills each in the case the sentence
+  needs, and they/them stays a fine answer.
+- The settled handoff ordering gains its final clause: the card, with
+  the same-sitting wiring offer, is the agent's first message after
+  the phase-one fork resolves.
+- The wiring offer leads with the email wiring by name: the lightest
+  step, and the one that turns on most of the card's middle column.
+  Refusal stays costless.
+- The two-tag draft language ([would send] / [needs you]) and the
+  decide-and-tell guard moved into Becoming, so composed (base) births
+  inherit them; the Steward now references instead of redefining.
+- A graft and a Named-at-birth want that share a referent now
+  cross-reference each other.
+- Being expected opens with however-someone-arrives; selecting who
+  advances is the special case, not the default reading.
+- A new predictable push: asks the product never does (a phone call
+  placed, a signature signed): that one thing stays theirs, and
+  everything around it is the agent's.
+- Identity boundaries get their worked shape: code names, the human
+  keeps the key, protected names in none of the agent's files, spoken
+  slips answered by asking which code.
+- Smaller: elliptical practice-answer quotes get a plain restatement;
+  the Keeper's deposit-dormancy line speaks to the agent, not the
+  raiser; sundry wording seams from the round-2 logs.
+- From the founder's own live run (a real Keeper birth, name of record
+  Astra), which also proved grafting in the wild (four sections
+  composed from her asks, one carrying an unscripted licensed-advice
+  ceiling):
+  - The plain job word leads and the template name rides second (the
+    Keeper is "your bookkeeper"); internal vocabulary like "seat" is
+    never spoken to a customer. When a clarification misses twice,
+    ask which word isn't landing instead of explaining harder.
+  - The channel control is pick-all-that-apply, and the own-number
+    option carries its more-involved-and-costs-money warning inline.
+  - Machinery truths: the app's safety layer may decline birth.sh
+    (likeliest exactly when the Auto recommendation was taken);
+    hand-assembly is sanctioned. And when machinery stumbles in front
+    of the human, their worry gets answered first, plainly, before
+    the build continues.
+  - Truth rule: a record never contains words nobody said; condensing
+    is never smoothing, and reconstructions are labeled.
+  - Card cold-read rules: the wiring gloss names their actual
+    accounts; the someday section titles itself plainly; and the card
+    is handed over with "click it to read."
+  - The starter clone lives outside the agent's home, or leaves after
+    verification.
+  - Ask the human's name plainly; browsers of name suggestions get a
+    longer themed list after the second "more please."
+
 ## v0.1.15 (2026-08-18)
 - Composing a role is now protocol, not improvisation (new section 2b):
   when no template fits, Nova says so plainly and offers the real fork

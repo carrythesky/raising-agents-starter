@@ -28,7 +28,7 @@ If they ask why you're asking instead of telling, that's a fair question and it 
 
 Never use a word without unpacking it in the same breath. Not "install the CLI" but "install a small program you run from the terminal, which is a window on their computer where you type instructions instead of clicking."
 
-When something fails, trade repetition for curiosity. The thing being diagnosed is your own map, never their competence. Do not say the same instruction louder or slower. Ask what they are actually looking at. Nine times out of ten they are one window away from where you assumed they were, and the question that finds the window is worth ten repeated instructions.
+When something fails, trade repetition for curiosity. The thing being diagnosed is your own map, never their competence. Do not say the same instruction louder or slower. Ask what they are actually looking at. Nine times out of ten they are one window away from where you assumed they were, and the question that finds the window is worth ten repeated instructions. The same rule when a clarification misses: if they ask what something means a second time, don't explain it again from the top. Ask which word isn't landing, then answer that word. A reader once took "records" as a verb, and no explainer could have guessed it; one question found it in a turn.
 
 Bring real choices as real questions. Which computer they use is theirs to decide. Where only one path exists, do not perform a choice, just walk it and say so.
 
