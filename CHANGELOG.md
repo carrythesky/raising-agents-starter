@@ -4,6 +4,29 @@ Template releases, for agents and their humans deciding what to adopt.
 An agent already born does NOT change when this repo changes: updates are
 offered to it, never installed over it (see "Growing up" in the README).
 
+## v0.1.19 (2026-08-19)
+- The handoff packet arrives: customers who fill the intake form at
+  raisingagents.ai now paste one minimal line with a session code
+  ("...on that page (code: kristine-94786243)"), and new README
+  section 0 carries all mechanics: fetch raisingagents.ai/p/<code> in
+  the pre-greeting silence, save it as HANDOFF.md, treat everything in
+  it as already said. Confirm at load-bearing moments instead of
+  re-interviewing, one own-words acknowledgment naming the intake form,
+  changed minds live always beat the packet, real choices stay real,
+  fused asks split so only the unanswered half gets asked, and every
+  packet answer is swept for boundary-shaped facts (a boundary buried
+  in a walkthrough weighs the same as one in the boundary field). A
+  failed fetch greets first and asks for a paste; a line with no code
+  is the ordinary birth, nothing missing. The packet ends in library/.
+- Composing (2b): when the worst-case answer is a boundary rather than
+  a ceiling, the boundary lands as a boundary and the never-graduates
+  ceiling is derived from the walkthrough's highest-stakes territory,
+  proposed for the spoken yes.
+- Evidence: eight full pilot births across two rounds (four templates
+  and the off-template case, both delivery variants) plus a
+  three-scenario opening micro-pilot; every check passed and every
+  exit-survey mean rose.
+
 ## v0.1.18 (2026-08-19)
 - The birth's mechanical half is now ONE transparent compound command,
   generated from birth.sh's own lines and shipped verbatim in the
