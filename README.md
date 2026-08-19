@@ -354,22 +354,38 @@ agents does the birth go into `agents/<agent-name>/` (lowercase)
 instead, with the handoff pointed there.
 
 The mechanical half is scripted in `tools/birth.sh`, and on a
-customer's machine you run its LINES, never the file: read the script,
-then execute its commands one at a time as your own ordinary file
-operations (the same mkdir, copy, and assembly it contains, its
-never-overwrite guard included). Do not invoke the script itself in a
-self-serve birth: a just-downloaded script is exactly what the app's
-quiet Auto mode refuses to run, and the refusal lands in front of the
-customer as a scary "failed to run" seconds after you told them
-nothing leaves this folder. The steps run everywhere, silently, and
-they are the same steps. Assembly is COPYING, never retyping: build
-the rulebook with the script's own copy commands and fill the slots
-as edits on the copied text, because a regenerated template is a
+customer's machine you run its work as ONE transparent compound
+command, never the script file itself: a just-downloaded script is
+exactly what the app's quiet Auto mode refuses to run, and the refusal
+lands in front of the customer as a scary "failed to run" seconds
+after you told them nothing leaves this folder. Plain file operations,
+visible right in the command, are what the same safety layer waves
+through: Auto mode passes them silently, and manual mode knocks once.
+The command, generated from the script's own lines (fill the ALL-CAPS
+pieces; for a `base` birth delete the ROLE line and the echo above
+it):
+
+```
+test ! -e HOME_DIR/CLAUDE.md && \
+mkdir -p HOME_DIR/memory HOME_DIR/drafts HOME_DIR/reports && \
+cp -R CLONE_DIR/library HOME_DIR/library && \
+{ echo "# AGENT_NAME's rulebook"; echo; echo "Born BIRTH_DATE."; echo; \
+  sed '1,/^---$/d' CLONE_DIR/templates/becoming.md; echo; \
+  sed '1,/^---$/d' CLONE_DIR/templates/ROLE.md; } > HOME_DIR/CLAUDE.md && \
+touch HOME_DIR/memory/MEMORY.md && \
+printf '%s\n' '# Pending' '' 'Anything needing the human or a fuller session becomes one dated checkbox' 'line here, tagged NEEDS <their name> or NEEDS SESSION (<agent name>).' > HOME_DIR/pending.md
+```
+
+Copy it exactly; never compose your own variant, because the command
+and the script must stay the same machine (when birth.sh changes, this
+block changes with it; report any drift between them upstream).
+Slot-filling then happens as EDITS on the copied text, never by
+retyping template content from memory: a regenerated template is a
 drifted template. (Invoking birth.sh directly belongs only where a
 human has deliberately allowed it in that project's settings: the
 installed-skill contexts in 4b.) Just before you build, one line of
 warning shaped like the Auto note: "I'll build the home now; if your
-app asks your approval a few times, that's each step knocking, all
+app asks your approval, that's the build knocking, all
 inside this folder." And if any machinery still stumbles where the
 human can see it, answer their worry FIRST, plainly, before another
 build step: nothing on their computer broke, and a worried question

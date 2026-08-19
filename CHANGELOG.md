@@ -4,6 +4,17 @@ Template releases, for agents and their humans deciding what to adopt.
 An agent already born does NOT change when this repo changes: updates are
 offered to it, never installed over it (see "Growing up" in the README).
 
+## v0.1.18 (2026-08-19)
+- The birth's mechanical half is now ONE transparent compound command,
+  generated from birth.sh's own lines and shipped verbatim in the
+  README: Auto mode passes it silently (plain file operations, visible
+  in the command itself), manual mode knocks once instead of four
+  times, and no machine ever shows "failed to run." The script file
+  stays the single source (change one, change both, same commit) and
+  still runs directly where a human has allowed it in settings. All
+  verification is unchanged and still gates the handoff: the two
+  greps, the completeness look, and fix-before-handoff.
+
 ## v0.1.17 (2026-08-19)
 - Self-serve births run birth.sh's LINES, never the file: the script
   stays the single source, Nova executes its commands one at a time as

@@ -7,6 +7,14 @@
 # The base role assembles the Becoming base alone, for composed roles
 # (README section 2b): Nova appends the composed role half by hand.
 #
+# SELF-SERVE BIRTHS DO NOT EXECUTE THIS FILE: the app's Auto-mode
+# safety layer refuses just-downloaded scripts, so the README carries
+# this script's work as one transparent compound command, generated
+# from the lines below. If you change these lines, change the README's
+# command block in the same commit; they are the same machine. Direct
+# execution belongs only where a human has allowed it in settings
+# (installed-skill contexts).
+#
 # It creates the folders, assembles a draft CLAUDE.md (becoming + role, with
 # raiser-facing preambles stripped), copies the library in, seeds pending.md's
 # header, and prints every [SLOT] left for Nova to fill. It never overwrites
