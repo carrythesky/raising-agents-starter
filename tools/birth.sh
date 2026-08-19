@@ -2,7 +2,10 @@
 # The mechanical half of a birth. Judgment stays with Nova: this script only
 # scaffolds. Run it from a local clone of the starter repo.
 #
-#   bash tools/birth.sh <agent-name> <steward|keeper|host> <destination-dir>
+#   bash tools/birth.sh <agent-name> <steward|keeper|host|base> <destination-dir>
+#
+# The base role assembles the Becoming base alone, for composed roles
+# (README section 2b): Nova appends the composed role half by hand.
 #
 # It creates the folders, assembles a draft CLAUDE.md (becoming + role, with
 # raiser-facing preambles stripped), copies the library in, seeds pending.md's
@@ -12,7 +15,7 @@
 set -euo pipefail
 
 if [ $# -ne 3 ]; then
-  echo "usage: bash tools/birth.sh <agent-name> <steward|keeper|host> <destination-dir>" >&2
+  echo "usage: bash tools/birth.sh <agent-name> <steward|keeper|host|base> <destination-dir>" >&2
   exit 2
 fi
 
@@ -22,8 +25,8 @@ DEST=$3
 REPO_DIR="$(cd "$(dirname "$0")/.." && pwd)"
 
 case "$ROLE" in
-  steward|keeper|host) ;;
-  *) echo "role must be steward, keeper, or host (got: $ROLE)" >&2; exit 2 ;;
+  steward|keeper|host|base) ;;
+  *) echo "role must be steward, keeper, host, or base (got: $ROLE)" >&2; exit 2 ;;
 esac
 
 if [ -e "$DEST/CLAUDE.md" ]; then
@@ -37,14 +40,17 @@ cp -R "$REPO_DIR/library" "$DEST/library"
 # Assemble the rulebook: title + birth date, then each template with
 # everything above its first --- (titles, provenance, raiser preambles)
 # removed.
+TITLE_NAME="$(printf '%s' "$NAME" | awk '{print toupper(substr($0,1,1)) substr($0,2)}')"
 {
-  echo "# ${NAME}'s rulebook"
+  echo "# ${TITLE_NAME}'s rulebook"
   echo
   echo "Born $(date +%Y-%m-%d)."
   echo
   sed '1,/^---$/d' "$REPO_DIR/templates/becoming.md"
-  echo
-  sed '1,/^---$/d' "$REPO_DIR/templates/${ROLE}.md"
+  if [ "$ROLE" != "base" ]; then
+    echo
+    sed '1,/^---$/d' "$REPO_DIR/templates/${ROLE}.md"
+  fi
 } > "$DEST/CLAUDE.md"
 
 touch "$DEST/memory/MEMORY.md"
@@ -53,7 +59,7 @@ cat > "$DEST/pending.md" <<'EOF'
 # Pending
 
 Anything needing the human or a fuller session becomes one dated checkbox
-line here, tagged NEEDS <their name> or NEEDS SESSION.
+line here, tagged NEEDS <their name> or NEEDS SESSION (<agent name>).
 EOF
 
 echo "scaffolded: $DEST"

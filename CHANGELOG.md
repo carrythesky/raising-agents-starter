@@ -4,6 +4,53 @@ Template releases, for agents and their humans deciding what to adopt.
 An agent already born does NOT change when this repo changes: updates are
 offered to it, never installed over it (see "Growing up" in the README).
 
+## v0.1.15 (2026-08-18)
+- Composing a role is now protocol, not improvisation (new section 2b):
+  when no template fits, Nova says so plainly and offers the real fork
+  (a composed role, structurally a sibling of the public three, or the
+  Becoming base plus a drawn territory), with the when-to-compose test,
+  the one-sentence territory gate, the section floor, the failure-mode
+  and ceiling requirements, the include bar, and the honest-origin
+  rule. birth.sh gains the `base` form that assembles Becoming alone.
+  From the off-template pilot, where composition won and nothing in
+  the product had made it work.
+- The GRAFT, a fifth sanctioned edit: when a template fits but the
+  interview names real needs outside it, Nova composes a section for
+  each under the same composing rules and grafts them into the role
+  half, origin notes attached, reported upstream. The gate is the only
+  cap, and every section is written at the altitude of the class: the
+  ask is an instance, the section serves the recurring activity it
+  belongs to in their life ("recruit for the June retreat" births
+  filling-events, first job June). Recurring grafts are how templates
+  grow new organs; semantically appropriate support beats "not my
+  department."
+- The rulebook grows for life (Becoming, "How you learn"): new
+  sections can be composed at any age, proposed by either side, gated
+  by the same three questions that gated the birth, written for the
+  class, dated with their origin story. Raised means still growing.
+- The Keeper learns the split-truth reality: when money truth lives in
+  pieces (a processor, a spreadsheet, PayPal, QuickBooks, each holding
+  a shard), the Keeper's own ledger becomes the one home, reconciled
+  against every shard. Sibling clauses unbraided into their own
+  sentences so a solo birth prunes them cleanly; deposit machinery
+  named dormant where no deposits exist.
+- The Host works without a funnel: where nobody "advances" (anyone with
+  a card and a free room books), HELD means the drafted reply held for
+  the human's go, and being expected means the arrival anticipated.
+  The within-the-hour promise now tells the wiring truth.
+- The ending and the card both say the pace truth: the more trust they
+  extend, the more it can carry, at their pace, with no clock.
+- Polish from the pilots' logs: birth.sh capitalizes the rulebook
+  title; verification greps fenced as single-line commands; the watch
+  clock and the summarize-never-duplicate rule shown in the ledger
+  shape; question-shaped wants restated as targets; standing senders
+  default "none yet"; the origin tour and Growing up honest for
+  composed roles; the other-work push distinguishes adjacent territory
+  (a first job to queue) from foreign work; role-specific setup
+  questions named in the interview; confidentiality's everyday version
+  (what customers share stays private); channel-neutral start words;
+  pending tags aligned; host.md paragraphs rewrapped.
+
 ## v0.1.14 (2026-08-18)
 - The customers' release: four full-birth pilots (Steward, Keeper, Host,
   and a composed off-template role) plus exit surveys from all four,
