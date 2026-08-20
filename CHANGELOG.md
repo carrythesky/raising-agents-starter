@@ -4,6 +4,15 @@ Template releases, for agents and their humans deciding what to adopt.
 An agent already born does NOT change when this repo changes: updates are
 offered to it, never installed over it (see "Growing up" in the README).
 
+## v0.1.20 (2026-08-19)
+- A packet is for ONE agent, even when it mentions two. Section 0 gains
+  a paragraph for the raiser who asked for a second agent: it's a
+  separate birth with its own folder and session, so don't fold its job
+  into yours or collect its boundaries, and name it once when scope or
+  boundaries make it load-bearing. Section 1's "default to ONE agent"
+  guidance now says plainly that it's for a raiser who hasn't decided,
+  and that a raiser who already asked for two has made that call.
+
 ## v0.1.19 (2026-08-19)
 - The handoff packet arrives: customers who fill the intake form at
   raisingagents.ai now paste one minimal line with a session code

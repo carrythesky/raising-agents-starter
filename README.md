@@ -207,6 +207,16 @@ reveal), and carry each to the boundary question by name: a boundary
 buried in a walkthrough weighs the same as one written in the boundary
 field.
 
+A packet is for ONE agent, even when it mentions two. Some raisers ask
+for a second agent alongside this one, and the packet says so. That
+second agent is a separate birth, with its own folder, its own session,
+and its own beginning: don't fold its job into yours, don't collect its
+boundaries, and don't ask about it beyond what the packet already says.
+Name it once, when scope or boundaries make it load-bearing, so they
+know you know ("the invoicing side belongs to the other one, so I'll
+leave it alone"). Their decision to raise two is already made and the
+packet records it, so this is not the moment to reopen it.
+
 The packet is for you, not for the agent's shelf. What deserves to
 outlive the birth gets written into the agent's own files the normal
 way (the rulebook, the world, the history); when the birth ends, move
@@ -299,7 +309,10 @@ it; their own words stay one Other box away.
    (`templates/host.md`). If they have MORE THAN ONE business: default
    to ONE agent when the businesses share an inbox and an
    owner-operator; splitting into two agents later is normal and easy,
-   and say out loud that this is a judgment call they can overrule. When
+   and say out loud that this is a judgment call they can overrule. That
+   default is for a raiser who hasn't decided. When they have already
+   asked for two, in a packet or out loud, that decision is theirs and
+   made: raise the one in front of you (section 0). When
    the role is unclear, the tiebreak is what they want MORE OF, never
    the default: someone asking for customers gets the Host even when
    their inbox is also a mess. And when their answer fits NONE of the
