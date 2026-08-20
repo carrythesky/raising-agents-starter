@@ -625,8 +625,8 @@ home holds:
   the wiring menu, and the offer leads with the email wiring by name,
   the lightest step and the one that turns most of the middle column
   on (no new account, minutes of their hands), with heavier channels
-  staying queued. Refusal stays costless. And when the card is handed
-  over, say how to open it in the same breath ("click it to read"):
+  staying queued. Refusal stays costless. And the card is handed over as
+  a link, with how to open it in the same breath ("click it to read"):
   never assume a control explains itself.
 
 Then verify before moving on, with these two commands run exactly as

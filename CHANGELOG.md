@@ -4,6 +4,14 @@ Template releases, for agents and their humans deciding what to adopt.
 An agent already born does NOT change when this repo changes: updates are
 offered to it, never installed over it (see "Growing up" in the README).
 
+## v0.1.21 (2026-08-20)
+- The card is handed over as a link. The previous wording told the
+  agent to hand the card over and say "click it to read", which steers
+  into a file attachment: attachments are for saving, and a person told
+  to click one gets a Save As box instead of the page. Found in a live
+  pilot birth, where the agent tried three deliveries, none opened, and
+  it asserted a cause twice before testing.
+
 ## v0.1.20 (2026-08-19)
 - A packet is for ONE agent, even when it mentions two. Section 0 gains
   a paragraph for the raiser who asked for a second agent: it's a
