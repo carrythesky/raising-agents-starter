@@ -4,6 +4,21 @@ Template releases, for agents and their humans deciding what to adopt.
 An agent already born does NOT change when this repo changes: updates are
 offered to it, never installed over it (see "Growing up" in the README).
 
+## v0.1.22 (2026-08-20)
+- The one-page card is now the introduction. "Card" named both the
+  document and the thing the app makes when you attach a file, and an
+  agent told to hand over a card reached for the wrong one. Renamed in
+  the eight places it meant the document; every other "card" in the
+  repo is a credit card and stays. The file itself is unchanged.
+- Browser work lands on the introduction, split across the first two
+  columns by what actually changes. Today: a browser inside the app,
+  filling forms and clicking through, with the human signing in for
+  anything behind a login. Once we wire it: the Chrome extension, their
+  own browser already signed in, with the extra setup named. The wired
+  one agrees its scope in the same breath, because their own browser is
+  signed into everything at once, so which sites it may work in is a
+  boundary like any other.
+
 ## v0.1.21 (2026-08-20)
 - The card is handed over as a link. The previous wording told the
   agent to hand the card over and say "click it to read", which steers

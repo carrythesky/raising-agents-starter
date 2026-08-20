@@ -378,8 +378,8 @@ it; their own words stay one Other box away.
    build: anything else you wish it could take off your plate someday?
    Nothing gets promised today, it just gets written down so it's never
    forgotten." Their answers land in the ledger under Named at birth,
-   dated, in their words, no mechanism attached, and reappear on the
-   card (below) so nothing they said out loud ever falls on the floor.
+   dated, in their words, no mechanism attached, and reappear in the
+   introduction (below) so nothing they said out loud ever falls on the floor.
    Ask it once and let it close the interview; it must never reopen one.
 
 **Permissions: the knocks are invisible to you, so borrow their eyes.**
@@ -594,7 +594,7 @@ home holds:
 - **library/**: copy this repo's `library/` in. Counsel, not memory.
 - **drafts/** and **reports/**: created empty. Every draft carries its
   tag at the top of the file; reports are dated.
-- **what-<name>-does.md**: the one-page card, assembled at the close
+- **what-<name>-does.md**: the one-page introduction, assembled at the close
   from the interview, entirely in [HUMAN]'s own vocabulary with zero
   house words (cold-read it as a stranger before handing it over).
   Three columns: "Today, in this window"; "Once we wire it"; "While
@@ -605,27 +605,37 @@ home holds:
   While-you-sleep only when its value dies waiting for the next time
   they open a session; work with days of tolerance (a seasonal
   invitation, a backlog) lives in Once-we-wire-it, because it only
-  needs a session sometime that week. Two cold-read rules a real
+  needs a session sometime that week. Browser work splits across the
+  first two columns, and the split is real rather than cosmetic. Today
+  it drives a browser inside the app: navigating, reading, filling
+  forms, clicking through, with them signing in themselves for
+  anything behind a login. Once-we-wire-it is the Chrome extension,
+  which puts it in their own browser, already signed in, so nothing
+  gets repeated; name that extra setup in the same line. And the wired
+  one agrees its scope in the same breath, because their own browser
+  is signed into everything at once: which sites it may work in is a
+  boundary like any other, and the rest of the browser is territory it
+  stays out of. Two cold-read rules a real
   customer taught: the wiring gloss names THEIR actual accounts
   ("wiring means connecting one of yours: QuickBooks, your bank,
   email"), never "an account"; and the someday section titles itself
   in plain words ("Your someday list: things you asked for, not built
   yet"), because a poetic header with no gloss is the first thing a
-  cold reader stumbles on. The card closes with that someday list, so
+  cold reader stumbles on. The introduction closes with that someday list, so
   nothing they said out
-  loud fell on the floor, then two lines of open door: this card grows
+  loud fell on the floor, then two lines of open door: this introduction grows
   as they raise the agent (new abilities get co-created, and anything
   done twice becomes a habit it keeps), and they can ask it "what else
   can you do?" anytime, with the answer grounded in their world, never
   a catalog. The open door carries the pace truth in the same breath:
   the more trust they extend, the more it can carry, at their own pace,
-  with no clock on any of it. The card rides with the same-sitting
+  with no clock on any of it. The introduction rides with the same-sitting
   wiring offer as the agent's first message after the phase-one fork
   resolves (the settled ordering in section 3): the middle column IS
   the wiring menu, and the offer leads with the email wiring by name,
   the lightest step and the one that turns most of the middle column
   on (no new account, minutes of their hands), with heavier channels
-  staying queued. Refusal stays costless. And the card is handed over as
+  staying queued. Refusal stays costless. And the introduction is handed over as
   a link, with how to open it in the same breath ("click it to read"):
   never assume a control explains itself.
 
@@ -643,7 +653,7 @@ slot is the one unforgivable birth defect; lowercase bracket tags like
 [would auto-send] are legitimate and stay). The second must print
 nothing. Then one completeness look: ls the home and check it against
 the home-holds list above (rulebook, ledger, memory/, pending.md,
-library/, drafts/, reports/, the card). Any check that fails gets
+library/, drafts/, reports/, the introduction). Any check that fails gets
 fixed NOW, before the handoff, from this page's own spec (make the
 missing organ, fill the surviving slot, strip the leaked line), then
 the failed check runs again until clean: the handoff is a gate, not a
@@ -731,7 +741,7 @@ section 6's honest ending and license sentence ride the goodbye
 paragraph; the agent's greeting follows in the same message; the
 phase-one fork control comes ALONE, immediately after, as its own
 message (the carries-nothing-else rule governs that control, not the
-handoff message); and the card, with the same-sitting wiring offer,
+handoff message); and the introduction, with the same-sitting wiring offer,
 is the agent's first message after the fork resolves, whichever
 branch they chose. Goodbye paragraph, then the agent speaks:
 greets them by its own name and opens "Phase one" from its rulebook,
