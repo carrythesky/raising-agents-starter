@@ -4,6 +4,35 @@ Template releases, for agents and their humans deciding what to adopt.
 An agent already born does NOT change when this repo changes: updates are
 offered to it, never installed over it (see "Growing up" in the README).
 
+## v0.1.24 (2026-08-21)
+
+From a two-world pilot run against v0.1.23 (a coach with a coaching
+business and a supplements business, two agents, never used Claude Code
+before that morning). Her ease-of-use score lost its two points to the
+first item below, in her words: "I was sitting there holding a second
+code with no idea what to do with it."
+
+- The first handoff walks a two-agent raiser to the second birth: new
+  folder, new session, which code goes there, in the plainest words and
+  waiting after each. Section 0 always knew the second agent needs its
+  own room; nothing pointed anyone to it, which is where a self-serve
+  raiser who bought two quietly ends up with one.
+- The second agent names any difference in posture between the two,
+  once, and hands it back as the human's own decision. Two agents
+  obeying two different answers read as one of them being broken when
+  nobody says otherwise.
+- The packet's access check gets a reader. It has been rendered since
+  the packet flow shipped and no instruction ever consumed it: an
+  unticked admin box or a colleague-held login now becomes a pending
+  line and gets said out loud at the handoff, because a human who meets
+  that fact three weeks later meets it as a broken promise.
+- A voice belongs to the machine, not to the agent: the installer's hook
+  is global, so on a two-agent computer installing a voice for one makes
+  the other speak too, in the same voice, unasked. Say that before
+  installing, and finish the job in the same sitting by giving each
+  agent its own voice through the server's per-request voice and speed
+  prefix, chosen with the human rather than assigned.
+
 ## v0.1.23 (2026-08-21)
 - A voice, offered at tier one. Speaking aloud runs on the person's own
   machine with no account and no machine that stays on, so it belongs in

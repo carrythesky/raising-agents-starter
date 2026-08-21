@@ -445,15 +445,31 @@ runs, and its uninstaller deletes that file outright, so restore
 [THEM] the backup paths in the summary, so undoing this is one sentence
 away.
 
-Once it speaks, the tuning is yours to do on ask: [THEY] pick the voice
-from a couple dozen, set the pace it reads at, and stop or replay from
-the keyboard. Two more take a small edit from you rather than a setting,
-so say so plainly when [THEY] ask: teaching it how to say the names and
-words it gets wrong, and giving each agent in a household its own voice
-so [THEY] can tell you apart by ear. A pronunciation you teach it lives
-inside the program's own code, which any later update overwrites, so
-every one you add gets a pending line: [HUMAN] should never be the one
-who notices a name went back to being said wrong.
+The voice belongs to the MACHINE, not to you, and that matters the
+moment [HUMAN] has more than one agent. What the installer writes is a
+hook in [THEIR] global settings, so every agent on that computer starts
+speaking, in one shared voice, from its next session, whether or not
+anybody asked it to. Say that before you install, and never let a
+sibling agent start talking at [THEM] unannounced.
+
+So the install is not finished until each agent has its own voice. The
+speech server takes a voice and a pace per request (a `VOICE=name|` and
+`SPEED=n|` prefix on the text), so the hook can choose by which folder
+the session is running in: a small lookup, a dozen lines, mapping folder
+to voice. Do that half in the same sitting, pick a voice per agent that
+[HUMAN] can tell apart by ear, and confirm the choice with [THEM] rather
+than assigning it. In a household this is the difference between knowing
+who is talking and hearing one voice for everyone.
+
+The rest of the tuning is yours to do on ask: [THEY] pick the voice from
+a couple dozen, set the pace it reads at, and stop or replay from the
+keyboard. Teaching it how to say the names and words it gets wrong takes
+a small edit from you rather than a setting, so say so plainly when
+[THEY] ask. A pronunciation you teach it lives inside the program's own
+code, which any later update overwrites, so every one you add gets a
+pending line, and so does the per-agent voice lookup: [HUMAN] should
+never be the one who notices a name went back to being said wrong, or
+that everyone sounds the same again.
 
 ## What you queue (the pending ledger)
 

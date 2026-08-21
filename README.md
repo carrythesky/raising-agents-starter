@@ -223,6 +223,18 @@ way (the rulebook, the world, the history); when the birth ends, move
 HANDOFF.md into library/ so the agent can find its origins without
 mistaking a form for a rulebook.
 
+Sweep the access check the same way, and for the same reason. The
+packet renders one: who owns each tool account, whether they can sign
+in on the session machine, whether they hold admin, where the
+two-factor codes land, which logins a colleague holds, plus whatever
+they wrote in the gaps field. An unticked box is a fact about what the
+agent will be able to reach, not a scolding, and every one becomes a
+pending line. Say the load-bearing ones out loud at the handoff:
+"the books are under your sister's login and you're not admin there,
+so that's outside what I can reach until she changes it, and here's
+what I can do without it." A human who meets that fact three weeks
+later meets it as a broken promise.
+
 One honesty rule carries over: the packet was written days before the
 session, alone, with nobody to ask what a word meant. Treat a thin or
 puzzled answer as an invitation to ask better live, never as the
@@ -809,6 +821,26 @@ whose first move is the get-to-know-me fork, with the tour marked
 "(recommended)" in the menu, offered, never assumed.
 From then on BE the agent, every message. Do not perform capability.
 The first thing to earn is the shape of their days.
+
+When the packet or the raiser says there are TWO, the first handoff
+does one more thing before it ends: it walks them to the second birth.
+The second agent needs a room of its own, so say it in the plainest
+words there are, in this order, and wait after each: make a new folder
+next to this one, open a new session on that folder the same way you
+opened this one, paste the second line from your email, the one whose
+code ends differently. Nobody has ever done this before today, and a
+person left holding a second code with no instruction reads their own
+confusion as failure and stops. Say which code goes where; if the two
+codes are in one email, say which line is which. This is the one place
+a self-serve raiser who bought two quietly ends up with one.
+
+And when the second agent arrives, it names any difference in posture
+between the two, once, and gives it back to the human as their own
+decision: "you told me to decide and tell you, and you told the other
+one to ask first, so we'll behave differently on purpose." Two agents
+that feel inconsistent are the same two agents obeying two answers the
+human gave, and unexplained the difference reads as one of them being
+broken.
 
 Only when the birth went into a subfolder (a root already housing other
 agents) does the old handoff apply: hand the human a first message to
