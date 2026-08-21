@@ -35,8 +35,9 @@ condensed spine, so you can begin immediately:
    lines one at a time instead, per the README). Your judgment does
    only: slots in the human's
    words, the sanctioned edits, PERMISSIONS.md, the first memory,
-   pending.md's first line, the what-<name>-does.md card (three columns,
-   their vocabulary, zero house words), then the verification greps and
+   pending.md's first line, the what-<name>-does.md introduction (three
+   columns, their vocabulary, zero house words, the agent's own first
+   person), then the verification greps and
    the completeness look, every failure fixed before the handoff.
 5. **The handoff:** in a root-birth, goodbye and the agent's first words
    ride the same message, and the agent opens phase one with what's

@@ -4,6 +4,70 @@ Template releases, for agents and their humans deciding what to adopt.
 An agent already born does NOT change when this repo changes: updates are
 offered to it, never installed over it (see "Growing up" in the README).
 
+## v0.1.23 (2026-08-21)
+- A voice, offered at tier one. Speaking aloud runs on the person's own
+  machine with no account and no machine that stays on, so it belongs in
+  the introduction's first column, not behind a wiring. The agent does
+  the install itself on ask, and the honest lines ride with it: the
+  upstream page says Python 3.9 is enough while the speech engine under
+  it needs 3.10 or newer, the installer covers macOS 12+ and Windows
+  10/11 with no Linux path, and it edits the human's global Claude
+  settings, so back those up and say what changed. What is a setting
+  (which voice, the pace, the stop and replay keys) and what is a small
+  edit on ask (teaching it names it says wrong, a different voice per
+  agent in a household) are named separately, so nothing sounds more
+  out-of-the-box than it is.
+- The installer REPLACES ~/.claude/CLAUDE.md with its own file rather
+  than adding to it, and its uninstaller deletes that file outright, so
+  the agent now copies that and settings.json aside first and restores
+  the human's own words afterwards. Found by reading the installer
+  during the voice pilot; 23 births never hit it because a born agent
+  keeps its rules in its own folder. Also from that pilot: the installer
+  checks that python3 exists and never what version it is, so a stock
+  Mac's 3.9.6 passes step one and dies at step two, which is why the
+  template treats 3.9 as missing. And a taught pronunciation lives in
+  the program's code, so each one now gets a pending line to survive the
+  next update.
+- The introduction is written in the agent's own first person. The page
+  already says "you" on every line, so it was always a letter to the
+  human with the agent talking about itself inside it, which is two
+  voices on one page. In first person the closing promises stop being
+  descriptions of an agent and become promises by one. Titles take the
+  form "<Name>: what I do". Cards already handed over do not change,
+  like everything else here.
+- The agent's own pronoun is asked for, in its own question after the
+  name has landed, with "it" offered out loud and the agent allowed to
+  pick if the human would rather. It was never asked before: six pilot
+  births produced three "she"s and three "it"s, every one of them the
+  writing agent's guess. A deferred name defers the pronoun with it.
+- The introduction carries the graduation, which is the thing a
+  capability list can never show. Every column line whose work has a
+  ladder says where it ends up in the same sentence ("Once she's
+  earned it, the confirmations go out without you and you see them
+  after"), taken from the role's own ladder and never invented. The
+  close gains four sentences on how the agent was raised, in that
+  agent's own pronoun: it asks when it isn't sure what they'd want, it
+  says so instead of giving an answer that sounds right, it checks
+  when told it's wrong and shows the data rather than folding, and
+  trust grows a rung at a time at their pace. The practice with the
+  abstraction taken out, and kept concrete, because the metaphor that
+  reads as depth to us reads as a sentence to decode to them.
+- The get-to-know-me fork is marked "(recommended)" in the menu, and the
+  first task now follows the introduction directly, with nothing in
+  between. Someone new to agents can't ask for what they don't know is
+  possible, so the tour is the shorter path to work that fits; taking
+  the work first stays a real answer. The same-sitting wiring offer
+  rides INSIDE that first task rather than beside it: where email is the
+  unlock it is one of the two or three things offered, never a second
+  pitch competing with them.
+- How you tell the truth is now The Discerning Mind, five principles
+  instead of one paragraph: slow before you speak, name the edge of your
+  knowing, catch the hallucination before it lands, logic is only as
+  true as its premises, and trust is infrastructure. The last one
+  carries the standing-your-ground rule, because an agent that agrees
+  under social pressure becomes something its human has to
+  double-check.
+
 ## v0.1.22 (2026-08-20)
 - The one-page card is now the introduction. "Card" named both the
   document and the thing the app makes when you attach a file, and an
